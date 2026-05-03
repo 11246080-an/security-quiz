@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>資訊安全刷題</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>資訊安全刷題</h1>
+        <p id="lastPractice">最近練習時間：尚未練習</p>
+      </div>
+      <button id="resetProgress" class="ghost danger" type="button">重置進度</button>
+    </header>
+
+    <main>
+      <section id="homeView" class="view active">
+        <div class="stats-grid">
+          <article class="stat"><span>總題數</span><strong id="totalCount">0</strong></article>
+          <article class="stat"><span>已完成題數</span><strong id="answeredCount">0</strong></article>
+          <article class="stat"><span>正確率</span><strong id="accuracy">0%</strong></article>
+          <article class="stat"><span>錯題數</span><strong id="wrongCount">0</strong></article>
+        </div>
+
+        <section class="panel">
+          <div class="panel-title">
+            <h2>開始練習</h2>
+          </div>
+          <div class="mode-grid">
+            <label>
+              <span>章節練習</span>
+              <select id="chapterSelect"></select>
+            </label>
+            <button id="startChapter" type="button">開始章節練習</button>
+            <button id="startRandom" type="button">全部隨機練習</button>
+            <label>
+              <span>模擬考</span>
+              <select id="examSize">
+                <option value="20">20 題</option>
+                <option value="50">50 題</option>
+                <option value="100">100 題</option>
+              </select>
+            </label>
+            <button id="startExam" type="button">開始模擬考</button>
+            <button id="startWrong" type="button">錯題本練習</button>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-title">
+            <h2>各章節完成度</h2>
+          </div>
+          <div id="chapterProgress" class="chapter-list"></div>
+        </section>
+      </section>
+
+      <section id="quizView" class="view">
+        <div class="quiz-head">
+          <button id="backHome" class="ghost" type="button">回首頁</button>
+          <div>
+            <strong id="sessionTitle">練習</strong>
+            <span id="sessionProgress">0 / 0</span>
+          </div>
+        </div>
+        <article class="question-panel">
+          <div class="question-meta">
+            <span id="questionId"></span>
+            <span id="questionChapter"></span>
+          </div>
+          <h2 id="questionText"></h2>
+          <div id="options" class="options"></div>
+          <p id="feedback" class="feedback" aria-live="polite"></p>
+          <button id="nextQuestion" class="next hidden" type="button">下一題</button>
+        </article>
+      </section>
+
+      <section id="resultView" class="view">
+        <section class="panel result-panel">
+          <h2>模擬考結果</h2>
+          <div class="stats-grid compact">
+            <article class="stat"><span>分數</span><strong id="examScore">0</strong></article>
+            <article class="stat"><span>答對題數</span><strong id="examCorrect">0</strong></article>
+            <article class="stat"><span>答錯題數</span><strong id="examWrong">0</strong></article>
+            <article class="stat"><span>正確率</span><strong id="examAccuracy">0%</strong></article>
+          </div>
+          <h3>錯題清單</h3>
+          <div id="examWrongList" class="wrong-list"></div>
+          <button id="resultHome" type="button">回首頁</button>
+        </section>
+      </section>
+    </main>
+
+    <template id="optionTemplate">
+      <button class="option" type="button">
+        <strong></strong>
+        <span></span>
+      </button>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

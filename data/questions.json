@@ -1,0 +1,6222 @@
+[
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q001",
+    "question": "防毒軟體的主要功能是什麼？",
+    "option_a": "僅用於數據備份",
+    "option_b": "防止惡意軟體入侵電腦系統",
+    "option_c": "加快電腦運行速度",
+    "option_d": "僅用於系統更新",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q002",
+    "question": "如何防範系統故障或人為惡意阻斷服務？",
+    "option_a": "通過系統備援和系統監控等措施",
+    "option_b": "僅依賴硬體設備",
+    "option_c": "僅依賴網路連接",
+    "option_d": "不需要任何防護措施",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q003",
+    "question": "如何防範社交工程攻擊？",
+    "option_a": "不需要任何防範措施",
+    "option_b": "僅依賴硬體設備",
+    "option_c": "不開啟可疑郵件，關閉郵件預覽功能，設定郵件過濾機制",
+    "option_d": "僅依賴網路連接",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q004",
+    "question": "如何防範弱密碼的風險？",
+    "option_a": "僅依賴系統默認設置",
+    "option_b": "僅使用簡單的數字密碼",
+    "option_c": "使用強制最低密碼複雜度和多因子認證",
+    "option_d": "不需要任何密碼",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q005",
+    "question": "資通安全的防護目標是什麼？",
+    "option_a": "防止資通系統或資訊遭受未經授權之存取、使用、控制、洩漏、破壞、竄改、銷毀或其他侵害",
+    "option_b": "僅保護硬體設備",
+    "option_c": "僅防止病毒入侵",
+    "option_d": "僅保護網路連接",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q006",
+    "question": "什麼是資通安全事件的例子？",
+    "option_a": "硬體設備的正常運行",
+    "option_b": "網路連接的正常使用",
+    "option_c": "系統資料遭勒索病毒加密破壞",
+    "option_d": "正常的系統更新",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q007",
+    "question": "什麼是資通安全的風險？",
+    "option_a": "威脅利用其相對應脆弱性，造成資訊資產受到衝擊的可能性",
+    "option_b": "僅是硬體設備的故障",
+    "option_c": "僅是網路連接的中斷",
+    "option_d": "僅是數據丟失",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q008",
+    "question": "法律遵循性在資通安全中是指什麼？",
+    "option_a": "不需要遵循任何法律",
+    "option_b": "僅遵循國際法規",
+    "option_c": "確保所欲保護的資訊內容，遵循法令法規要求",
+    "option_d": "僅遵循公司內部規定",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q009",
+    "question": "什麼是行動裝置安全的四不原則？",
+    "option_a": "不瀏覽可疑網站、不亂掃QR code、不連接可疑的Wi-Fi、不下載可疑APP",
+    "option_b": "僅依賴網路連接",
+    "option_c": "不需要任何安全措施",
+    "option_d": "僅依賴硬體設備",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q010",
+    "question": "資通安全的風險管理目標是什麼？",
+    "option_a": "僅依賴技術手段來管理風險",
+    "option_b": "完全消除所有風險",
+    "option_c": "在合理的防護成本投入下，獲得最優化的安全性",
+    "option_d": "不需要考慮成本投入",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q011",
+    "question": "如何確保資訊的可用性？",
+    "option_a": "不需要任何保護措施",
+    "option_b": "通過系統備援和系統監控等措施",
+    "option_c": "僅依賴網路連接",
+    "option_d": "僅依賴硬體設備",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q012",
+    "question": "可用性在資通安全中是指什麼？",
+    "option_a": "資訊與資源只能在特定時間存取",
+    "option_b": "資訊與資源永遠不需要存取",
+    "option_c": "資訊與資源在需要時，可被存取與使用",
+    "option_d": "資訊與資源不需要任何保護",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q013",
+    "question": "什麼是資通系統的防護需求等級？",
+    "option_a": "僅有兩個等級",
+    "option_b": "沒有等級區分",
+    "option_c": "僅有一個等級",
+    "option_d": "高、中、普三個等級",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q014",
+    "question": "什麼是社交工程攻擊？",
+    "option_a": "不涉及任何人為因素",
+    "option_b": "利用人性弱點，應用溝通與欺騙伎倆進行非法存取與破壞",
+    "option_c": "僅針對硬體設備進行攻擊",
+    "option_d": "僅依賴技術手段進行攻擊",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q015",
+    "question": "如何確保法律遵循性？",
+    "option_a": "確保所欲保護的資訊內容，遵循法令法規要求",
+    "option_b": "不需要遵循任何法律",
+    "option_c": "僅遵循國際法規",
+    "option_d": "僅遵循公司內部規定",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q016",
+    "question": "什麼是資通安全事件的例子？(複選性質，此為第二題重複)",
+    "option_a": "硬體設備的正常運行",
+    "option_b": "系統資料遭勒索病毒加密破壞",
+    "option_c": "正常的系統更新",
+    "option_d": "網路連接的正常使用",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q017",
+    "question": "如何確保資訊的機密性？",
+    "option_a": "不需要任何保護措施",
+    "option_b": "僅依賴網路連接",
+    "option_c": "通過加密、存取控制和資料遮罩等措施",
+    "option_d": "僅依賴硬體設備",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q018",
+    "question": "如何確保資訊的完整性？",
+    "option_a": "通過資料驗證、數位簽章和完整性驗證等措施",
+    "option_b": "僅依賴網路連接",
+    "option_c": "不需要任何保護措施",
+    "option_d": "僅依賴硬體設備",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q019",
+    "question": "什麼是資通系統的主要資產？",
+    "option_a": "僅包括網路連接",
+    "option_b": "資訊和營運過程及活動",
+    "option_c": "僅包括硬體設備",
+    "option_d": "僅包括軟體應用",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q020",
+    "question": "資通安全的CIA三元組包括哪些要素？",
+    "option_a": "僅包括機密性和可用性",
+    "option_b": "僅包括可用性和完整性",
+    "option_c": "機密性、完整性和可用性",
+    "option_d": "僅包括機密性和完整性",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q021",
+    "question": "資通安全維護計畫應包括哪些事項？",
+    "option_a": "應包括核心業務及其重要性、資安政策及目標、資安推動組織等13項事項",
+    "option_b": "僅包括資安推動組織",
+    "option_c": "僅包括資通系統及資訊之盤點",
+    "option_d": "僅包括資安政策及目標",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q022",
+    "question": "弱密碼的風險是什麼？",
+    "option_a": "不會對系統安全造成任何影響",
+    "option_b": "僅影響系統的運行速度",
+    "option_c": "可能導致機敏資訊外洩",
+    "option_d": "僅影響硬體設備的性能",
+    "answer": "C"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q023",
+    "question": "什麼是OWASP Top 10？",
+    "option_a": "僅是數據備份的風險列表",
+    "option_b": "WEB應用程式前10大風險",
+    "option_c": "僅是網路連接的風險列表",
+    "option_d": "僅是硬體設備的風險列表",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q024",
+    "question": "機密性在資通安全中指的是什麼？",
+    "option_a": "資訊只能被所有人存取",
+    "option_b": "敏感資訊只能經由授權之人員或系統存取",
+    "option_c": "資訊可以被任何系統存取",
+    "option_d": "資訊的存取不需要任何控制",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q025",
+    "question": "資通系統的組成包括哪些要素？",
+    "option_a": "包括網路、硬體、軟體、人員和資訊/資料",
+    "option_b": "僅包括硬體和軟體",
+    "option_c": "僅包括資訊/資料和人員",
+    "option_d": "僅包括網路和人員",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q026",
+    "question": "對稱式加密的特點是什麼？",
+    "option_a": "僅使用公開金鑰進行加密",
+    "option_b": "不需要金鑰進行加密和解密",
+    "option_c": "使用不同的金鑰進行加密和解密",
+    "option_d": "使用相同的金鑰進行加密和解密",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q027",
+    "question": "非對稱式加密的特點是什麼？",
+    "option_a": "使用相同的金鑰進行加密和解密",
+    "option_b": "使用不同的公開金鑰和私有金鑰進行加密和解密",
+    "option_c": "不需要金鑰進行加密和解密",
+    "option_d": "僅使用私有金鑰進行加密",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q028",
+    "question": "資通安全管理體系的核心精神是什麼？",
+    "option_a": "僅依賴人員訓練",
+    "option_b": "透過Plan-Do-Check-Act管理循環持續改善",
+    "option_c": "不需要任何管理循環",
+    "option_d": "僅依賴技術手段",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q029",
+    "question": "如何防範釣魚攻擊？",
+    "option_a": "僅依賴硬體設備",
+    "option_b": "不開啟可疑郵件，關閉郵件預覽功能，設定郵件過濾機制",
+    "option_c": "不需要任何防範措施",
+    "option_d": "僅依賴網路連接",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q030",
+    "question": "如何防範惡意軟體的入侵？",
+    "option_a": "僅依賴硬體設備",
+    "option_b": "僅依賴網路連接",
+    "option_c": "不需要任何防護措施",
+    "option_d": "定期更新防毒軟體及其特徵碼",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q031",
+    "question": "資通安全的主要目標是什麼？",
+    "option_a": "確保資訊的機密性、完整性及可用性",
+    "option_b": "僅保護硬體設備",
+    "option_c": "僅保護網路連接",
+    "option_d": "僅防止病毒入侵",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q032",
+    "question": "資通安全事件的定義是什麼？",
+    "option_a": "系統、服務或網路狀態顯示可能有違反資通安全政策或保護措施失效之狀態發生",
+    "option_b": "僅指硬體故障事件",
+    "option_c": "任何系統的正常運行",
+    "option_d": "僅指病毒攻擊事件",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q033",
+    "question": "資通安全的核心精神是什麼？",
+    "option_a": "僅依賴人員訓練",
+    "option_b": "不需要任何管理措施",
+    "option_c": "僅依賴技術手段",
+    "option_d": "持續的風險管理",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q034",
+    "question": "3 pillar of CIA for confidentiality, Integrity and Availability in IT Security Risk Management 什麼是行動裝置安全的六要原則？",
+    "option_a": "不需要任何安全措施",
+    "option_b": "要定期更新密碼、備份資料、更新軟體、使用加密連線等",
+    "option_c": "僅依賴網路連接",
+    "option_d": "僅依賴硬體設備",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q035",
+    "question": "什麼是惡意軟體？",
+    "option_a": "僅包括合法的軟體應用",
+    "option_b": "僅包括系統更新軟體",
+    "option_c": "僅包括防病毒軟體",
+    "option_d": "包括病毒、蠕蟲、勒索軟體、廣告軟體、間諜軟體和木馬等",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q036",
+    "question": "如何確保資訊的可用性？(重複考題)",
+    "option_a": "僅依賴網路連接",
+    "option_b": "通過系統備援和系統監控等措施",
+    "option_c": "不需要任何保護措施",
+    "option_d": "僅依賴硬體設備",
+    "answer": "B"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q037",
+    "question": "什麼是資通安全的CIA三元組？(重複考題)",
+    "option_a": "機密性、完整性和可用性",
+    "option_b": "僅包括可用性和完整性",
+    "option_c": "僅包括機密性和完整性",
+    "option_d": "僅包括機密性和可用性",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q038",
+    "question": "完整性在資通安全中是指什麼？",
+    "option_a": "資料不需要任何驗證",
+    "option_b": "資料可以被任何人竄改",
+    "option_c": "資料可以隨時被修改",
+    "option_d": "資料在其生命週期中持續正確、具一致性且可被信任",
+    "answer": "D"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q039",
+    "question": "如何確保資訊的完整性？(重複考題)",
+    "option_a": "通過資料驗證、數位簽章和完整性驗證等措施",
+    "option_b": "僅依賴網路連接",
+    "option_c": "不需要任何保護措施",
+    "option_d": "僅依賴硬體設備",
+    "answer": "A"
+  },
+  {
+    "chapter": "01資通安全概論",
+    "question_id": "CH01_Q040",
+    "question": "什麼是資通服務？",
+    "option_a": "僅包括軟體開發",
+    "option_b": "與資訊之蒐集、控制、傳輸、儲存、流通、刪除、其他處理、使用或分享相關之服務",
+    "option_c": "僅包括網路管理",
+    "option_d": "僅包括硬體維護",
+    "answer": "B"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q001",
+    "question": "資通安全管理法中，對於資安事件的調查處理改善報告的提交時限是什麼？",
+    "option_a": "1個月內",
+    "option_b": "4個月內",
+    "option_c": "2個月內",
+    "option_d": "3個月內",
+    "answer": "A"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q002",
+    "question": "根據資通安全管理法，特定非公務機關的資安管理責任包括哪些？",
+    "option_a": "提供免費的資安培訓",
+    "option_b": "增加資安預算",
+    "option_c": "制定維護計畫和接受稽核",
+    "option_d": "減少資安人員",
+    "answer": "C"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q003",
+    "question": "資通安全管理法中，對於資安事件通報及應變流程的起算時間點是什麼？",
+    "option_a": "知悉事件",
+    "option_b": "事件發生",
+    "option_c": "事件報告提交",
+    "option_d": "事件結束",
+    "answer": "A"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q004",
+    "question": "資通安全管理法中，對於公務機關的資安事件通報及應變辦法的結報時限是什麼？",
+    "option_a": "4個月內",
+    "option_b": "3個月內",
+    "option_c": "1個月內",
+    "option_d": "2個月內",
+    "answer": "C"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q005",
+    "question": "資通安全管理法中，對於資安事件的等級評估標準不包括以下哪一項？",
+    "option_a": "影響程度",
+    "option_b": "資訊性質",
+    "option_c": "業務資訊",
+    "option_d": "系統升級的頻率",
+    "answer": "D"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q006",
+    "question": "資通安全管理法施行細則中，資安長的配置建議是什麼？",
+    "option_a": "由資安專職人員擔任",
+    "option_b": "由資安專責人員擔任",
+    "option_c": "宜指派副首長兼任",
+    "option_d": "由外部專家擔任",
+    "answer": "C"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q007",
+    "question": "資通安全管理法的納管對象不包括以下哪一項？",
+    "option_a": "政府捐助之財團法人",
+    "option_b": "軍事機關",
+    "option_c": "關鍵基礎設施提供者",
+    "option_d": "公營事業",
+    "answer": "B"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q008",
+    "question": "資通安全事件通報及應變辦法中，資安事件的定義不包括以下哪一項？",
+    "option_a": "資訊洩漏",
+    "option_b": "系統升級",
+    "option_c": "系統破壞",
+    "option_d": "未經授權的存取",
+    "answer": "B"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q009",
+    "question": "資通安全管理法中，對於公務機關的資安責任等級應辦事項的頻率是什麼？",
+    "option_a": "每年核定一次",
+    "option_b": "每半年核定一次",
+    "option_c": "每2年核定一次",
+    "option_d": "每季度核定一次",
+    "answer": "C"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q010",
+    "question": "資通安全管理法中，對於公務機關的資安事件通報時限規定是什麼？",
+    "option_a": "3級事件需在3小時內通報",
+    "option_b": "4級事件需在4小時內通報",
+    "option_c": "1級事件需在1小時內通報",
+    "option_d": "2級事件需在2小時內通報",
+    "answer": "C"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q011",
+    "question": "資通安全管理法中，對於資安事件的通報時限，3級事件的應變處置時限是什麼？",
+    "option_a": "48小時",
+    "option_b": "72小時",
+    "option_c": "24小時",
+    "option_d": "36小時",
+    "answer": "D"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q012",
+    "question": "資通安全管理法中，對於特定非公務機關的稽核辦法的目的為何？",
+    "option_a": "增加資安預算",
+    "option_b": "敦促實施資安維護計畫",
+    "option_c": "提供免費的資安培訓",
+    "option_d": "減少資安人員",
+    "answer": "B"
+  },
+  {
+    "chapter": "02資通安全相關法規",
+    "question_id": "CH02_Q013",
+    "question": "資通安全管理法的立法目的包括哪些？",
+    "option_a": "促進國際貿易",
+    "option_b": "增加政府收入",
+    "option_c": "提升國家安全和社會公共利益",
+    "option_d": "減少政府開支",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q001",
+    "question": "進行資安稽核的主要目的是什麼？",
+    "option_a": "癱瘓公司的正常營運",
+    "option_b": "找出並懲處犯錯的員工",
+    "option_c": "證明公司的系統是絕對安全的",
+    "option_d": "獨立且客觀地評估資安管控措施的有效性，並確保其符合政策與法規",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q002",
+    "question": "在制定資安維護計畫時，第一個應該執行的步驟是什麼？",
+    "option_a": "對所有員工進行資安教育訓練",
+    "option_b": "進行風險評鑑與資產盤點",
+    "option_c": "採購最新的防毒軟體",
+    "option_d": "撰寫災難復原計畫",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q003",
+    "question": "「威脅情資 (Threat Intelligence)」對於精進資安維護計畫有何幫助？",
+    "option_a": "它提供關於最新攻擊手法、惡意軟體及駭客組織的資訊，幫助組織提前部屬防禦",
+    "option_b": "它可以預測樂透號碼",
+    "option_c": "它只對大型跨國企業有用",
+    "option_d": "它可以自動修補系統漏洞",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q004",
+    "question": "為了防範勒索軟體 (Ransomware) 攻擊，以下哪個實施項目最為關鍵？",
+    "option_a": "購買最新的電腦硬體",
+    "option_b": "將所有檔案都儲存在桌面",
+    "option_c": "僅使用一家廠商的防毒軟體",
+    "option_d": "確保有定期且可用的離線備份 (Offline Backup)",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q005",
+    "question": "實施員工資安意識訓練的主要目的是什麼？",
+    "option_a": "滿足法規要求而已",
+    "option_b": "讓員工成為組織資安防護的第一道防線",
+    "option_c": "篩選出不適任的員工",
+    "option_d": "懲罰點擊釣魚郵件的員工",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q006",
+    "question": "在實施系統安全強化 (System Hardening) 時，以下哪個做法是不恰當的？",
+    "option_a": "定期安裝最新的安全性更新 (Patches)",
+    "option_b": "移除不必要的軟體與服務",
+    "option_c": "關閉不需要的連接埠 (ports)",
+    "option_d": "保持系統預設的帳號密碼以方便管理",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q007",
+    "question": "資安政策 (Policy) 與資安程序 (Procedure) 的主要區別是什麼？",
+    "option_a": "政策由IT部門制定，程序由高階主管制定",
+    "option_b": "政策是技術性的，程序是管理性的",
+    "option_c": "政策提供高階的指導方針與原則，程序則提供詳細的執行步驟",
+    "option_d": "兩者沒有實質區別",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q008",
+    "question": "在實施資安維護計畫時，最重要且最基礎的防護措施之一是什麼？",
+    "option_a": "以上皆是",
+    "option_b": "要求所有員工使用強密碼並定期更換",
+    "option_c": "定期進行資料備份",
+    "option_d": "部署防火牆與防毒軟體",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q009",
+    "question": "何者是實施身分與存取管理 (IAM) 的核心功能？",
+    "option_a": "提供免費的 Wi-Fi 服務",
+    "option_b": "確保只有被授權的人員，在適當的時間，能存取適當的資源",
+    "option_c": "監控員工的網頁瀏覽紀錄",
+    "option_d": "設計公司的官方網站",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q010",
+    "question": "根據ISO 27001標準的精神，持續改善 (Continual Improvement) 是資訊安全管理系統 (ISMS) 的核心要求之一。這主要體現在哪個管理環節？",
+    "option_a": "僅在稽核階段",
+    "option_b": "貫穿於整個PDCA循環中",
+    "option_c": "在採購新設備時",
+    "option_d": "僅在計畫制定階段",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q011",
+    "question": "在資安領域中，PDCA循環代表什麼？",
+    "option_a": "密碼-裝置-雲端-存取",
+    "option_b": "政策-文件-控制-稽核",
+    "option_c": "保護-偵測-加密-授權",
+    "option_d": "計畫-執行-檢查-行動 (Plan-Do-Check-Act)",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q012",
+    "question": "稽核人員要求檢視「防火牆規則變更紀錄」，這是為了驗證哪個控制措施的有效性？",
+    "option_a": "災難復原計畫",
+    "option_b": "變更管理程序",
+    "option_c": "員工資安意識訓練",
+    "option_d": "實體安全管制",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q013",
+    "question": "在實施資料備份策略時，'3-2-1原則' 中的 '1' 代表什麼？",
+    "option_a": "至少要有一份備份存放在異地 (Off-site)",
+    "option_b": "每天至少備份一次",
+    "option_c": "只能由一位管理員操作備份",
+    "option_d": "只需要保留一份備份",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q014",
+    "question": "以下何者不是撰寫資安維護計畫時需要考量的核心要素？",
+    "option_a": "提升公司產品的市場佔有率 (Market Share)",
+    "option_b": "確保資料的完整性 (Integrity)",
+    "option_c": "保護資料的機密性 (Confidentiality)",
+    "option_d": "維持系統的可用性 (Availability)",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q015",
+    "question": "資安計畫中的「權責劃分」主要目的為何？",
+    "option_a": "購買資安保險",
+    "option_b": "增加計畫的複雜度",
+    "option_c": "確保在資安事件發生時，能明確知道由誰負責應對與處理",
+    "option_d": "限制員工的網路存取權限",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q016",
+    "question": "一份好的稽核報告，應該具備什麼特性？",
+    "option_a": "篇幅越長越好",
+    "option_b": "只報告好的結果，隱藏發現的缺失",
+    "option_c": "充滿艱澀的技術術語，讓管理層看不懂",
+    "option_d": "清楚呈現稽核發現 (Findings)、風險等級、以及具體的改善建議",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q017",
+    "question": "在進行法規遵循性稽核 (Compliance Audit) 時，稽核的依據是什麼？",
+    "option_a": "公司內部的IT標準",
+    "option_b": "外部的法律、法規或行業標準 (如：GDPR, ISO 27001)",
+    "option_c": "最新的科技新聞",
+    "option_d": "競爭對手的資安政策",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q018",
+    "question": "在實施資安解決方案後，進行「變更後審查 (Post-implementation Review)」的目的是什麼？",
+    "option_a": "責備執行不力的員工",
+    "option_b": "立即移除剛部署的方案",
+    "option_c": "確認方案是否如預期運作，且未對現有環境造成負面影響",
+    "option_d": "向供應商要求退款",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q019",
+    "question": "當一個資安事件發生並處理完畢後，進行「事後檢討 (Lessons Learned)」的主要目的是什麼？",
+    "option_a": "分析事件根本原因，並改善現有的防禦措施與應變計畫",
+    "option_b": "向媒體發布新聞稿",
+    "option_c": "找出應該被開除的員工",
+    "option_d": "計算事件造成的財務損失",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q020",
+    "question": "弱點掃描 (Vulnerability Scanning) 與滲透測試 (Penetration Testing) 的主要差異是？",
+    "option_a": "兩者沒有任何區別",
+    "option_b": "滲透測試不需要工具",
+    "option_c": "弱點掃描是被動的，僅找出已知的弱點；滲透測試是主動的，會嘗試利用弱點",
+    "option_d": "弱點掃描比較昂貴",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q021",
+    "question": "稽核工作完成後，最重要的下一步是什麼？",
+    "option_a": "將報告鎖在保險箱",
+    "option_b": "追蹤稽核缺失的改善進度，並進行複查",
+    "option_c": "舉行慶功宴",
+    "option_d": "立即解散稽核團隊",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q022",
+    "question": "實施資安事件應變演練 (Incident Response Drill) 的主要好處是什麼？",
+    "option_a": "增加公司的營運成本",
+    "option_b": "測試公司網路的最大頻寬",
+    "option_c": "確保真實事件永遠不會發生",
+    "option_d": "讓應變團隊熟悉流程，並找出計畫中的不足之處",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q023",
+    "question": "為了有效實施存取控制 (Access Control)，應該遵循下列哪個原則？",
+    "option_a": "全部開放原則 (Allow All)",
+    "option_b": "完全信任原則",
+    "option_c": "最小權限原則 (Principle of Least Privilege)",
+    "option_d": "先來後到原則",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q024",
+    "question": "內部稽核 (Internal Audit) 和外部稽核 (External Audit) 最大的不同點在於？",
+    "option_a": "外部稽核的成本較低",
+    "option_b": "稽核人員的獨立性與隸屬組織不同",
+    "option_c": "內部稽核不需要產出報告",
+    "option_d": "內部稽核比較不專業",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q025",
+    "question": "部署入侵偵測系統 (IDS) 的主要作用是什麼？",
+    "option_a": "監控網路或系統活動，並在發現可疑行為時發出警報",
+    "option_b": "加密所有網路傳輸的資料",
+    "option_c": "取代防火牆的功能",
+    "option_d": "主動阻擋所有可疑的網路流量",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q026",
+    "question": "撰寫災難復原計畫 (DRP) 時，RTO (Recovery Time Objective) 指的是什麼？",
+    "option_a": "備份資料所需的時間",
+    "option_b": "從災難發生到系統必須恢復運作的最長可接受時間",
+    "option_c": "系統可以容忍遺失多少資料量",
+    "option_d": "每年進行災難演練的次數",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q027",
+    "question": "稽核人員在檢視系統日誌 (Log) 時，最主要是為了尋找什麼？",
+    "option_a": "軟體的授權是否過期",
+    "option_b": "員工的加班時數",
+    "option_c": "異常活動、未經授權的存取嘗試或潛在的資安事件跡象",
+    "option_d": "系統的運作效能瓶頸",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q028",
+    "question": "滲透測試 (Penetration Testing) 在資安稽核中扮演什麼角色？",
+    "option_a": "一種被動的日誌分析工具",
+    "option_b": "一種資料備份的驗證方式",
+    "option_c": "模擬駭客的攻擊手法，主動找出系統可被利用的弱點",
+    "option_d": "一種員工的社交工程測驗",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q029",
+    "question": "以下何者是定義「資料分類 (Data Classification)」的主要目的？",
+    "option_a": "根據資料的敏感性與價值，給予不同層級的保護",
+    "option_b": "讓所有資料都公開透明",
+    "option_c": "方便刪除不重要的資料",
+    "option_d": "增加資料儲存的困難度",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q030",
+    "question": "在稽核過程中，以下哪種行為屬於「實體安全 (Physical Security)」的稽核範圍？",
+    "option_a": "審查員工的密碼強度政策",
+    "option_b": "掃描系統的弱點",
+    "option_c": "檢查防火牆的設定規則",
+    "option_d": "檢視伺服器機房的出入管制紀錄",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q031",
+    "question": "資安維護計畫的精進，應該是一個什麼樣的過程？",
+    "option_a": "只在年底才做的工作",
+    "option_b": "只由IT部門負責的工作",
+    "option_c": "一次性的專案",
+    "option_d": "持續不斷的循環過程",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q032",
+    "question": "為何將「使用者回饋」納入資安計畫的精進流程中是重要的？",
+    "option_a": "因為可以了解現行政策或工具是否影響日常工作效率，從而進行優化，提高遵循度",
+    "option_b": "因為使用者不重要",
+    "option_c": "因為可以增加資安團隊的工作量",
+    "option_d": "因為法規強制要求",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q033",
+    "question": "在資安維護計畫中，「可接受使用政策 (AUP)」主要是規範誰的行為？",
+    "option_a": "僅限高階主管",
+    "option_b": "僅限IT管理人員",
+    "option_c": "外部的攻擊者",
+    "option_d": "組織的所有使用者 (包含員工、約聘人員等)",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q034",
+    "question": "定期審視並更新資安維護計畫的頻率，最理想的狀況是？",
+    "option_a": "至少每年一次，或在組織有重大變更 (如架構調整、導入新系統) 時進行",
+    "option_b": "每五年一次",
+    "option_c": "公司成立時制定一次即可",
+    "option_d": "只有在被駭客攻擊後才需要",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q035",
+    "question": "以下何者是衡量資安防護成效的關鍵績效指標 (KPI) 的一個好例子？",
+    "option_a": "IT部門購買了多少新設備",
+    "option_b": "CEO的滿意度分數",
+    "option_c": "公司網站的訪客數量",
+    "option_d": "平均威脅偵測時間 (Mean Time to Detect, MTTD)",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q036",
+    "question": "計畫中包含「變更管理 (Change Management)」程序的目的是什麼？",
+    "option_a": "讓員工可以隨意安裝軟體",
+    "option_b": "增加IT部門的工作量",
+    "option_c": "阻止任何系統的變更",
+    "option_d": "確保所有對系統的變更都經過審核、測試與記錄，以降低風險",
+    "answer": "D"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q037",
+    "question": "在精進資安計畫時，若發現某項控制措施的成本遠高於其所保護資產的價值，組織應該如何考量？",
+    "option_a": "堅持執行，不計成本",
+    "option_b": "立即放棄所有資安防護",
+    "option_c": "考慮接受該風險 (Risk Acceptance)，或尋找更具成本效益的替代方案",
+    "option_d": "隱瞞此項發現",
+    "answer": "C"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q038",
+    "question": "公司導入新的雲端服務後，資安維護計畫應該如何調整？",
+    "option_a": "停止所有內部部署系統的維護",
+    "option_b": "應更新風險評鑑、資料分類及存取控制等政策，以涵蓋雲端環境的特性",
+    "option_c": "不需要任何調整，雲端供應商會處理一切",
+    "option_d": "裁撤IT部門",
+    "answer": "B"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q039",
+    "question": "在進行資產盤點時，除了硬體設備，還應該包含以下哪些項目？",
+    "option_a": "軟體、資料、服務及人員",
+    "option_b": "公司建築物",
+    "option_c": "公司股價",
+    "option_d": "辦公室傢俱",
+    "answer": "A"
+  },
+  {
+    "chapter": "03資安維護計畫之制定與實施",
+    "question_id": "CH03_Q040",
+    "question": "制定資安目標時，應該遵循 SMART 原則，請問 SMART 中的「M」代表什麼？",
+    "option_a": "巨大 (Massive)",
+    "option_b": "金錢 (Money)",
+    "option_c": "管理 (Management)",
+    "option_d": "可衡量 (Measurable)",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q001",
+    "question": "ISO/IEC 27015標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供金融服務資訊安全管理指南",
+    "option_c": "提供財務管理的策略",
+    "option_d": "提供技術設備的操作指南",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q002",
+    "question": "資訊安全管理體系的建立、監視、保持和改進需要採取哪些步驟？",
+    "option_a": "增加財務報告的準確性",
+    "option_b": "識別資訊資產及其相關的資訊安全要求",
+    "option_c": "提高技術設備的性能",
+    "option_d": "改善人力資源的管理",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q003",
+    "question": "資訊安全管理體系的成功實施有助於什麼？",
+    "option_a": "改善人力資源的管理",
+    "option_b": "增加財務報告的準確性",
+    "option_c": "提高技術設備的性能",
+    "option_d": "保護資訊資產",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q004",
+    "question": "ISO/IEC 27001標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供財務管理的策略",
+    "option_c": "規範資訊安全管理體系的要求",
+    "option_d": "提供技術設備的操作指南",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q005",
+    "question": "資訊安全的CIA金三角代表什麼？",
+    "option_a": "機密性、完整性、可用性",
+    "option_b": "教育性、訓練性、覺察性",
+    "option_c": "技術性、管理性、實體性",
+    "option_d": "政策性、程序性、風險性",
+    "answer": "A"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q006",
+    "question": "ISO/IEC 27009標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供財務管理的策略",
+    "option_c": "提供技術設備的操作指南",
+    "option_d": "提供ISO/IEC 27001的特定行業應用要求",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q007",
+    "question": "ISO/IEC 27018標準的主要目的是什麼？",
+    "option_a": "提供可識別個人資訊（PII）處理者在公有雲中保護PII的實踐指南",
+    "option_b": "提供技術設備的操作指南",
+    "option_c": "提供人力資源管理的流程",
+    "option_d": "提供財務管理的策略",
+    "answer": "A"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q008",
+    "question": "資訊安全管理體系的建立、實施、運行、監視、評審、保持和改進是基於什麼？",
+    "option_a": "風險評估和組織的風險接受程度",
+    "option_b": "財務報告的分析和審核",
+    "option_c": "人力資源的培訓和管理",
+    "option_d": "技術設備的更新和維護",
+    "answer": "A"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q009",
+    "question": "ISO/IEC 27014標準的主要目的是什麼？",
+    "option_a": "提供財務管理的策略",
+    "option_b": "提供技術設備的操作指南",
+    "option_c": "提供人力資源管理的流程",
+    "option_d": "提供資訊安全治理的指南",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q010",
+    "question": "ISO/IEC 27019標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供技術設備的操作指南",
+    "option_c": "提供根基於ISO/IEC 27002之能源公用事業的過程控制規範之資訊安全管理指導綱要",
+    "option_d": "提供財務管理的策略",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q011",
+    "question": "ISO/IEC 27010標準的主要目的是什麼？",
+    "option_a": "提供行業間和組織間通信的資訊安全管理指南",
+    "option_b": "提供人力資源管理的流程",
+    "option_c": "提供技術設備的操作指南",
+    "option_d": "提供財務管理的策略",
+    "answer": "A"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q012",
+    "question": "ISMS標準族中，哪一個標準提供資訊安全管理體系審核指南？",
+    "option_a": "ISO/IEC 27005",
+    "option_b": "ISO/IEC 27002",
+    "option_c": "ISO/IEC 27007",
+    "option_d": "ISO/IEC 27009",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q013",
+    "question": "資訊安全管理體系的實施有助於什麼？",
+    "option_a": "增加財務報告的準確性",
+    "option_b": "提高技術設備的性能",
+    "option_c": "降低資訊安全事件發生的可能性和影響",
+    "option_d": "改善人力資源的管理",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q014",
+    "question": "ISO/IEC 27017標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供財務管理的策略",
+    "option_c": "提供技術設備的操作指南",
+    "option_d": "提供根基於ISO/IEC 27002之雲端服務的資訊安全控制措施之作業規範",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q015",
+    "question": "NSTISSC安全模式的三個向度包括哪些？",
+    "option_a": "人力資源、財務管理、技術規範",
+    "option_b": "基礎資訊特性、安全量測、資訊狀態",
+    "option_c": "政策制定、程序執行、風險評估",
+    "option_d": "技術設備、管理流程、財務策略",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q016",
+    "question": "資訊安全管理體系的實施有助於什麼？（重複考題）",
+    "option_a": "改善人力資源的管理",
+    "option_b": "提高技術設備的性能",
+    "option_c": "降低資訊安全事件發生的可能性和影響",
+    "option_d": "增加財務報告的準確性",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q017",
+    "question": "ISO/IEC 27002標準提供什麼樣的指南？",
+    "option_a": "財務管理的策略指南",
+    "option_b": "人力資源管理的流程指南",
+    "option_c": "資訊安全控制措施實踐指南",
+    "option_d": "技術設備的操作指南",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q018",
+    "question": "資訊安全管理體系的目標是什麼？",
+    "option_a": "提高技術設備的性能",
+    "option_b": "改善人力資源的管理",
+    "option_c": "增加財務報告的準確性",
+    "option_d": "增加實現保持資訊保密性、可用性和完整性目標的可能性",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q019",
+    "question": "ISO 27799標準的主要目的是什麼？",
+    "option_a": "提供財務管理的策略",
+    "option_b": "提供健康資訊學使用ISO/IEC 27002的健康資訊安全管理指南",
+    "option_c": "提供技術設備的操作指南",
+    "option_d": "提供人力資源管理的流程",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q020",
+    "question": "ISO/IEC 27013標準的主要目的是什麼？",
+    "option_a": "提供財務管理的策略",
+    "option_b": "提供技術設備的操作指南",
+    "option_c": "提供人力資源管理的流程",
+    "option_d": "提供ISO/IEC 27001和ISO/IEC 20000-1綜合實施指南",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q021",
+    "question": "ISO/IEC 27006標準的主要目的是什麼？",
+    "option_a": "提供人力資源管理的流程",
+    "option_b": "提供資訊安全管理體系審核認證機構的要求",
+    "option_c": "提供技術設備的操作指南",
+    "option_d": "提供財務管理的策略",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q022",
+    "question": "ISMS標準族中，哪一個標準提供資訊安全風險管理的指南？",
+    "option_a": "ISO/IEC 27001",
+    "option_b": "ISO/IEC 27005",
+    "option_c": "ISO/IEC 27002",
+    "option_d": "ISO/IEC 27006",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q023",
+    "question": "ISO/IEC 27000標準系列的主要特徵是什麼？",
+    "option_a": "提供技術設備的操作手冊",
+    "option_b": "提供人力資源管理的指南",
+    "option_c": "提供資訊安全管理體系的概述和詞彙",
+    "option_d": "提供財務報告的格式",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q024",
+    "question": "資訊安全管理體系的成功實施有助於什麼？（重複考題）",
+    "option_a": "提高技術設備的性能",
+    "option_b": "改善人力資源的管理",
+    "option_c": "增加財務報告的準確性",
+    "option_d": "保護資訊資產",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q025",
+    "question": "資訊安全管理體系的目標是什麼？（重複考題）",
+    "option_a": "提高技術設備的性能",
+    "option_b": "改善人力資源的管理",
+    "option_c": "增加實現保持資訊保密性、可用性和完整性目標的可能性",
+    "option_d": "增加財務報告的準確性",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q026",
+    "question": "ISMS標準族中，哪一個標準提供資訊安全管理測量的指南？",
+    "option_a": "ISO/IEC 27006",
+    "option_b": "ISO/IEC 27001",
+    "option_c": "ISO/IEC 27005",
+    "option_d": "ISO/IEC 27004",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q027",
+    "question": "資訊安全管理體系的成功實施有助於什麼？（重複考題）",
+    "option_a": "增加財務報告的準確性",
+    "option_b": "提高技術設備的性能",
+    "option_c": "改善人力資源的管理",
+    "option_d": "保護資訊資產",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q028",
+    "question": "ISMS標準系列的主要目的是什麼？",
+    "option_a": "提供財務管理的策略",
+    "option_b": "提供人力資源管理的流程",
+    "option_c": "提供技術設備的詳細規格",
+    "option_d": "提供資訊安全管理的指南和要求",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q029",
+    "question": "ISO/IEC 27011標準的主要目的是什麼？",
+    "option_a": "提供技術設備的操作指南",
+    "option_b": "提供人力資源管理的流程",
+    "option_c": "提供基於ISO/IEC 27002的電信組織資訊安全管理指南",
+    "option_d": "提供財務管理的策略",
+    "answer": "C"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q030",
+    "question": "資訊安全管理體系的建立、監視、保持和改進需要採取哪些步驟？（重複考題）",
+    "option_a": "提高技術設備的性能",
+    "option_b": "識別資訊資產及其相關的資訊安全要求",
+    "option_c": "增加財務報告的準確性",
+    "option_d": "改善人力資源的管理",
+    "answer": "B"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q031",
+    "question": "資訊安全管理體系的目標是什麼？（重複考題）",
+    "option_a": "改善人力資源的管理",
+    "option_b": "提高技術設備的性能",
+    "option_c": "增加財務報告的準確性",
+    "option_d": "增加實現保持資訊保密性、可用性和完整性目標的可能性",
+    "answer": "D"
+  },
+  {
+    "chapter": "04資訊安全管理系統(ISMS)的架構與程序",
+    "question_id": "CH04_Q032",
+    "question": "資訊安全管理體系（ISMS）由哪些組成？",
+    "option_a": "政策、程序、風險評估",
+    "option_b": "策略、規程、指南和相關資源和活動",
+    "option_c": "教育、訓練、覺察",
+    "option_d": "技術設備、財務報告、人力資源",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q001",
+    "question": "圖中顯示的「安全性通道」連接了多個城市以及什麼設備？",
+    "option_a": "印表機",
+    "option_b": "移動性電腦",
+    "option_c": "伺服器",
+    "option_d": "智慧型手機",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q002",
+    "question": "根據圖示，防火牆的主要功能是？",
+    "option_a": "加密網路流量",
+    "option_b": "分配 IP 位址",
+    "option_c": "偵測病毒",
+    "option_d": "封包進出管制",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q003",
+    "question": "在 PGP 系統中，發信人對信件進行了哪兩項操作？",
+    "option_a": "存檔與備份",
+    "option_b": "複製與貼上",
+    "option_c": "掃描與壓縮",
+    "option_d": "加密與簽署",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q004",
+    "question": "在 PKI 架構中，負責簽發與管理數位憑證的機構是？",
+    "option_a": "憑證授權中心 (CA)",
+    "option_b": "服務機構",
+    "option_c": "使用者本人",
+    "option_d": "Kerberos 系統",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q005",
+    "question": "在不安全的公眾網路上，為了保護內部「安全性私有網路」，通常會設置何種設備進行管制？",
+    "option_a": "路由器",
+    "option_b": "防火牆",
+    "option_c": "交換器",
+    "option_d": "伺服器",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q006",
+    "question": "虛擬私有網路 (VPN) 的主要目的是建立一條什麼？",
+    "option_a": "高速通道",
+    "option_b": "實體通道",
+    "option_c": "開放通道",
+    "option_d": "安全性通道",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q007",
+    "question": "在訊息完整性的檢查中，接收端如何驗證訊息 M' 未被竄改？",
+    "option_a": "比較 H(M) 與自己計算出的 H(M')",
+    "option_b": "檢查訊息的數位簽章",
+    "option_c": "使用秘密鑰匙解密",
+    "option_d": "向發送端請求確認",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q008",
+    "question": "Kerberos 系統主要用於何種類型的用戶認證？",
+    "option_a": "開放性用戶認證",
+    "option_b": "匿名用戶認證",
+    "option_c": "封閉性用戶認證",
+    "option_d": "生物特徵認證",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q009",
+    "question": "教材圖中將防火牆比喻為什麼？",
+    "option_a": "護城河",
+    "option_b": "城門",
+    "option_c": "圍牆",
+    "option_d": "衛兵",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q010",
+    "question": "PGP 系統主要應用於保護何種網路應用的安全？",
+    "option_a": "線上遊戲",
+    "option_b": "檔案傳輸",
+    "option_c": "電子郵件",
+    "option_d": "網頁瀏覽",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q011",
+    "question": "圖中顯示的 DES 加密演算法，其輸入除了 Cn+1 之外還需要什麼？",
+    "option_a": "前一筆亂數 Cn",
+    "option_b": "主鑰匙 Km",
+    "option_c": "雜湊碼",
+    "option_d": "明文 M",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q012",
+    "question": "在電子商務中，防範偽造、篡改交易資料以及確認交易雙方身分的能力，屬於哪個安全性範疇？",
+    "option_a": "安全性私有網路",
+    "option_b": "安全性電子化系統",
+    "option_c": "安全性電子商務",
+    "option_d": "安全性作業系統",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q013",
+    "question": "根據圖示，「安全性系統管理」所管理的對象不包含下列何者？",
+    "option_a": "安全性電子郵件",
+    "option_b": "安全性電子商務",
+    "option_c": "安全性電子化系統",
+    "option_d": "安全性私有網路",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q014",
+    "question": "跨越公眾網路，在不同地理位置之間建立加密連線的技術，稱之為？",
+    "option_a": "廣域網路 (WAN)",
+    "option_b": "區域網路 (LAN)",
+    "option_c": "虛擬私有網路 (VPN)",
+    "option_d": "無線網路 (WLAN)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q015",
+    "question": "在 PKI 流程中，使用者向服務機構請求服務時，需要出示什麼？",
+    "option_a": "憑證",
+    "option_b": "密碼",
+    "option_c": "通行證",
+    "option_d": "身分證",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q016",
+    "question": "公開鑰匙基礎架構 (PKI) 主要用於何種類型的用戶認證？",
+    "option_a": "封閉性用戶認證",
+    "option_b": "混合式用戶認證",
+    "option_c": "單一簽入認證",
+    "option_d": "開放性用戶認證",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q017",
+    "question": "根據圖示，「不安全的公眾網路」位於何處？",
+    "option_a": "安全性私有網路內部",
+    "option_b": "防火牆外部",
+    "option_c": "圖中未標示",
+    "option_d": "防火牆內部",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q018",
+    "question": "PGP 系統中的「簽章」機制，主要是為了達成訊息的什麼目的？",
+    "option_a": "完整性與不可否認性",
+    "option_b": "隱密性",
+    "option_c": "可用性",
+    "option_d": "隨機性",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q019",
+    "question": "在 Kerberos 流程中，第 (3) 步驟「確認通行證」是由誰執行的？",
+    "option_a": "伺服系統",
+    "option_b": "Kerberos 系統",
+    "option_c": "使用者",
+    "option_d": "第三方公正機構",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q020",
+    "question": "將不定長度的訊息轉換為固定長度輸出碼的函數稱之為？",
+    "option_a": "加密編碼",
+    "option_b": "亂數產生器",
+    "option_c": "雜湊函數",
+    "option_d": "解密編碼",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q021",
+    "question": "在圖中的密碼系統裡，竊聽者最可能攔截到的是什麼？",
+    "option_a": "明文 M",
+    "option_b": "加密鑰匙 K1",
+    "option_c": "密文 C",
+    "option_d": "解密鑰匙 K2",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q022",
+    "question": "根據電子商務的圖示，伺服端銀行與客戶端銀行之間的資金流動稱為什麼？",
+    "option_a": "訂購",
+    "option_b": "郵寄",
+    "option_c": "轉帳",
+    "option_d": "索取",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q023",
+    "question": "在對稱式訊息加密的圖示中，發送端與接收端使用什麼來進行加解密？",
+    "option_a": "相同的秘密鑰匙",
+    "option_b": "數位憑證",
+    "option_c": "公開鑰匙",
+    "option_d": "不同的鑰匙",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q024",
+    "question": "根據教材內容，下列何者是「安全性資訊系統」的建構要件之一？",
+    "option_a": "安全性人力資源",
+    "option_b": "安全性作業系統",
+    "option_c": "安全性行銷策略",
+    "option_d": "安全性辦公環境",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q025",
+    "question": "在安全性網頁系統的流程中，消費者透過什麼方式訂購產品？",
+    "option_a": "電子郵件",
+    "option_b": "電話",
+    "option_c": "實體店面",
+    "option_d": "網頁訂單",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q026",
+    "question": "確保作業系統本身提供用戶認證、資源授權、日誌管理等機制，是哪個安全性要件的主要職責？",
+    "option_a": "安全性私有網路",
+    "option_b": "安全性電子商務",
+    "option_c": "安全性電子化系統",
+    "option_d": "安全性作業系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q027",
+    "question": "在訊息安全的三個圖示中，訊息皆是由發送端流向接收端。",
+    "option_a": "視情況而定",
+    "option_b": "錯誤",
+    "option_c": "圖中未顯示",
+    "option_d": "正確",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q028",
+    "question": "確保電子化系統具有訊息隱密性、完整性、確認性以及不可否認性功能，是哪個領域的重點？",
+    "option_a": "安全性系統管理",
+    "option_b": "安全性私有網路",
+    "option_c": "安全性作業系統",
+    "option_d": "安全性電子化系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q029",
+    "question": "建構防火牆或入侵偵測系統，主要是為了達成下列哪一項安全性目標？",
+    "option_a": "安全性作業系統",
+    "option_b": "安全性私有網路",
+    "option_c": "安全性電子化系統",
+    "option_d": "安全性電子商務",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q030",
+    "question": "為了確保「訊息完整性」，發送端會使用雜湊函數 H 計算出訊息 M 的什麼？",
+    "option_a": "雜湊值 H(M)",
+    "option_b": "密文",
+    "option_c": "訊息鑑別碼 (MAC)",
+    "option_d": "數位簽章",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q031",
+    "question": "在加密過程中，將明文 M 轉換為密文 C 的程序稱之為？",
+    "option_a": "解密編碼",
+    "option_b": "亂數產生器",
+    "option_c": "密碼生成 (D) 加密編碼 (E)",
+    "option_d": "雜湊函數 (H)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q032",
+    "question": "虛擬亂數產生的公式 Cn+1 = (a * Cn + k) mod m 是為了達到什麼特性？",
+    "option_a": "訊息完整性",
+    "option_b": "訊息加密",
+    "option_c": "全週期",
+    "option_d": "用戶認證",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q033",
+    "question": "「訊息加密」主要是為了保護訊息的哪一種特性？",
+    "option_a": "可用性",
+    "option_b": "完整性",
+    "option_c": "不可否認性",
+    "option_d": "隱密性",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q034",
+    "question": "「訊息確認」（訊息鑑別）結合了雜湊函數與什麼技術來產生 MAC？",
+    "option_a": "數位憑證",
+    "option_b": "公開鑰匙加密",
+    "option_c": "秘密鑰匙加密",
+    "option_d": "亂數產生",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q035",
+    "question": "在 PGP 系統中，收信人需要對信件進行什麼操作才能閱讀？",
+    "option_a": "存檔與回覆",
+    "option_b": "轉寄與刪除",
+    "option_c": "加密與簽署",
+    "option_d": "解密與確認",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q036",
+    "question": "在整個電子商務流程中，「郵寄產品」是何時發生的？",
+    "option_a": "訂購產品之前",
+    "option_b": "轉帳失敗時",
+    "option_c": "轉帳完成之後",
+    "option_d": "訂購產品的同時",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q037",
+    "question": "在 Kerberos 系統中，使用者登入系統後，首先需要索取什麼？",
+    "option_a": "服務授權",
+    "option_b": "秘密鑰匙",
+    "option_c": "通行證",
+    "option_d": "憑證",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q038",
+    "question": "在公式 C = E_K1(M) 中，K1 代表什麼？",
+    "option_a": "密文",
+    "option_b": "加密演算法",
+    "option_c": "明文",
+    "option_d": "加密鑰匙",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q039",
+    "question": "在公式 M = D_K2(C) 中，D 代表什麼？",
+    "option_a": "解密鑰匙",
+    "option_b": "解密編碼",
+    "option_c": "明文",
+    "option_d": "密文",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q040",
+    "question": "隨時監視系統運作情形，並檢視可能出現不安全交易行為的管理系統，稱之為？",
+    "option_a": "安全性作業系統",
+    "option_b": "安全性系統管理",
+    "option_c": "安全性電子商務",
+    "option_d": "安全性私有網路",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q041",
+    "question": "根據教材標題，除了防火牆之外，另一個與網路防禦相關的系統為何？",
+    "option_a": "權限管理",
+    "option_b": "病毒掃描",
+    "option_c": "資料備份",
+    "option_d": "入侵偵測",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q042",
+    "question": "消費者訂購產品後，網頁伺服器會與哪兩方進行互動以完成轉帳？",
+    "option_a": "客戶端銀行與伺服端銀行",
+    "option_b": "物流公司與供應商",
+    "option_c": "海關與郵局",
+    "option_d": "認證中心與使用者",
+    "answer": "A"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q043",
+    "question": "根據圖示，MAC(M) 是如何產生的？",
+    "option_a": "僅對訊息 M 進行雜湊",
+    "option_b": "僅對訊息 M 加密",
+    "option_c": "對訊息 M 的雜湊值 H(M) 進行加密",
+    "option_d": "對訊息 M 進行兩次雜湊",
+    "answer": "C"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q044",
+    "question": "PKI 架構圖中的 CAa、CAb、CAc 之間的「授權與認證」關係，形成了一個什麼樣的結構？",
+    "option_a": "階層式結構",
+    "option_b": "主從式結構",
+    "option_c": "點對點結構",
+    "option_d": "信任網",
+    "answer": "D"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q045",
+    "question": "訊息確認機制（MAC）除了提供訊息完整性，還能提供下列何種功能？",
+    "option_a": "系統可用性",
+    "option_b": "來源確認",
+    "option_c": "訊息隱密性",
+    "option_d": "亂數性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q046",
+    "question": "PGP 系統的運作，有賴於使用者雙方都先進行什麼步驟？",
+    "option_a": "註冊會員帳號",
+    "option_b": "鑰匙登錄與索取",
+    "option_c": "安裝防毒軟體",
+    "option_d": "支付費用",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q047",
+    "question": "系統安全性的主要議題之一是？",
+    "option_a": "防火牆設定",
+    "option_b": "用戶認證",
+    "option_c": "訊息加密",
+    "option_d": "病毒防護",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q048",
+    "question": "「日誌管理或稽核檢視」是下列哪個安全性系統的例子？",
+    "option_a": "安全性電子化系統",
+    "option_b": "安全性作業系統",
+    "option_c": "安全性私有網路",
+    "option_d": "安全性電子商務",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q049",
+    "question": "根據教材，亂數產生的兩大特性是？",
+    "option_a": "隱密性與完整性",
+    "option_b": "隨機性與不可預測性",
+    "option_c": "週期性與可預測性",
+    "option_d": "固定性與可重複性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第一章 安全性資訊系統概論",
+    "question_id": "CH05_Q050",
+    "question": "在密碼系統中，未經加密的原始訊息被稱為什麼？",
+    "option_a": "密文",
+    "option_b": "鑰匙",
+    "option_c": "雜湊碼",
+    "option_d": "明文",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q001",
+    "question": "在密碼系統中，未經加密的原始訊息稱為什麼？",
+    "option_a": "鑰匙",
+    "option_b": "明文",
+    "option_c": "密文",
+    "option_d": "演算法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q002",
+    "question": "AES 加密演算法的最後一個回合，省略了哪一個運算步驟？",
+    "option_a": "ShiftRows",
+    "option_b": "SubBytes",
+    "option_c": "MixColumns",
+    "option_d": "AddRoundKey",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q003",
+    "question": "Two-Keys 3DES 的加密過程是？ (E=加密, D=解密)",
+    "option_a": "E-E-D",
+    "option_b": "E-D-E",
+    "option_c": "D-E-D",
+    "option_d": "E-E-E",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q004",
+    "question": "Feistel 結構的一個主要優點是什麼？",
+    "option_a": "加密和解密過程完全不同",
+    "option_b": "不需要使用鑰匙",
+    "option_c": "加密和解密演算法非常相似",
+    "option_d": "只能用於文字加密",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q005",
+    "question": "DES 的子鑰匙產生過程中，會對 56 位元的母鑰匙進行什麼操作？",
+    "option_a": "循環左移和壓縮排列",
+    "option_b": "僅有壓縮排列",
+    "option_c": "僅有循環左移",
+    "option_d": "循環右移和擴展排列",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q006",
+    "question": "在 Feistel 的一回合加密中，輸入的右半部(REi)會經過函數 F 運算後，與哪一部分進行 XOR 運算？",
+    "option_a": "前一回合的鑰匙(Ki-1)",
+    "option_b": "下一回合的鑰匙(Ki+1)",
+    "option_c": "右半部(REi)自己",
+    "option_d": "左半部(LEi)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q007",
+    "question": "在對稱密碼系統 (Symmetric Cryptosystem) 中，加密鑰匙和解密鑰匙的關係是？",
+    "option_a": "完全相同",
+    "option_b": "沒有關係",
+    "option_c": "不相同",
+    "option_d": "互為倒數",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q008",
+    "question": "密碼學的英文 Cryptography 字源 \"kryptos\" 代表什麼意思？",
+    "option_a": "隱藏",
+    "option_b": "書寫",
+    "option_c": "公開",
+    "option_d": "計算",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q009",
+    "question": "在 AES 的 AddRoundKey 運算中，狀態矩陣會與什麼進行 XOR 運算？",
+    "option_a": "S-box",
+    "option_b": "初始向量",
+    "option_c": "回合鑰匙",
+    "option_d": "前一個狀態矩陣",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q010",
+    "question": "下列何者不是區塊加密的工作模式？",
+    "option_a": "CBC (密碼區塊連結模式)",
+    "option_b": "AES (進階加密標準模式)",
+    "option_c": "ECB (電子密碼本模式)",
+    "option_d": "CFB (密碼回饋模式)",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q011",
+    "question": "AES 的解密過程基本上是加密過程的什麼？",
+    "option_a": "逆運算",
+    "option_b": "隨機選擇",
+    "option_c": "重複執行兩次",
+    "option_d": "與加密完全相同",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q012",
+    "question": "攻擊者可以選擇任意明文並獲得其加密後的密文，這種破解技巧稱為什麼？",
+    "option_a": "選擇明文破解",
+    "option_b": "只知密文破解",
+    "option_c": "選擇密文破解",
+    "option_d": "已知明文破解",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q013",
+    "question": "換位加密法中的「順序反轉」，其關鍵(key)是什麼？",
+    "option_a": "一個特定的排列規則（如倒過來）",
+    "option_b": "一個矩陣",
+    "option_c": "一個數字",
+    "option_d": "一個取代表",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q014",
+    "question": "在 Two-Keys 3DES 中，中間步驟使用解密(D)是為了什麼？",
+    "option_a": "加快運算速度",
+    "option_b": "與舊有 DES 系統相容",
+    "option_c": "減少鑰匙長度",
+    "option_d": "增加安全性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q015",
+    "question": "AES 加密過程中，用來儲存中間結果的 4x4 位元組矩陣稱為什麼？",
+    "option_a": "區塊(Block)",
+    "option_b": "狀態(State)",
+    "option_c": "盒(Box)",
+    "option_d": "鑰匙(Key)",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q016",
+    "question": "在 AES 的 SubBytes 運算中，使用什麼來進行位元組的取代？",
+    "option_a": "S-box",
+    "option_b": "XOR-box",
+    "option_c": "P-box",
+    "option_d": "D-box",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q017",
+    "question": "DES 的子鑰匙產生器，是從 56 位元的母鑰匙中產生幾把 48 位元的子鑰匙？",
+    "option_a": "32 把",
+    "option_b": "8 把",
+    "option_c": "16 把",
+    "option_d": "12 把",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q018",
+    "question": "Three-Keys 3DES 使用幾把不同的 56 位元鑰匙？",
+    "option_a": "3",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "4",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q019",
+    "question": "AES 沒有使用 Feistel 網路，而是採用了所謂的什麼網路結構？",
+    "option_a": "加法-旋轉-XOR (ARX)",
+    "option_b": "取代-排列網路 (SPN)",
+    "option_c": "非平衡式費斯妥網路",
+    "option_d": "平衡式費斯妥網路",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q020",
+    "question": "Triple DES (3DES) 的出現主要是為了解決 DES 的什麼問題？",
+    "option_a": "區塊長度太小",
+    "option_b": "鑰匙長度太短容易被暴力破解",
+    "option_c": "加密速度太慢",
+    "option_d": "演算法不公開",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q021",
+    "question": "AES-128 中，Nk (鑰匙區段數目) 和 Nb (明文區段數目) 的值分別是多少？",
+    "option_a": "Nk=8, Nb=4",
+    "option_b": "Nk=6, Nb=4",
+    "option_c": "Nk=4, Nb=4",
+    "option_d": "Nk=4, Nb=6",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q022",
+    "question": "傳統密碼系統的摘要中，區塊大小、鑰匙長度、重複回合次數是影響安全性的重要參數。",
+    "option_a": "是",
+    "option_b": "否",
+    "option_c": "不一定",
+    "option_d": "看情況",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q023",
+    "question": "AES 能夠支援不同長度的鑰匙和區塊，這展現了它的什麼特性？",
+    "option_a": "高效性",
+    "option_b": "靈活性",
+    "option_c": "安全性",
+    "option_d": "複雜性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q024",
+    "question": "如果 3DES 的三把鑰匙都相同 (K1=K2=K3)，其效果等同於？",
+    "option_a": "AES",
+    "option_b": "一次 DES",
+    "option_c": "兩次 DES",
+    "option_d": "無法解密",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q025",
+    "question": "明文或鑰匙的微小改變會導致密文產生巨大變化的特性，稱為什麼？",
+    "option_a": "雪崩效應",
+    "option_b": "擴散",
+    "option_c": "蝴蝶效應",
+    "option_d": "混淆",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q026",
+    "question": "AES 演算法中，鑰匙擴充(Key Expansion)的目的是什麼？",
+    "option_a": "縮短主鑰匙長度",
+    "option_b": "驗證主鑰匙的正確性",
+    "option_c": "取代主鑰匙",
+    "option_d": "將一把主鑰匙擴展成加密所需的各回合鑰匙",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q027",
+    "question": "若使用換位加密法的鐵軌法加密明文「HELLOWORLD」，密文為何？",
+    "option_a": "EWROHLLOD",
+    "option_b": "HLOOLELWRD",
+    "option_c": "HLOOLLEWRD",
+    "option_d": "HELOWRDLLO",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q028",
+    "question": "DES 演算法總共會重複進行幾回合的加密處理？",
+    "option_a": "8",
+    "option_b": "16",
+    "option_c": "12",
+    "option_d": "32",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q029",
+    "question": "將明文中每個字元由另一個字元取代的加密法稱為什麼？",
+    "option_a": "取代加密法",
+    "option_b": "換位加密法",
+    "option_c": "順序反轉法",
+    "option_d": "鐵軌法",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q030",
+    "question": "傳統密碼學的兩種基本技巧是？",
+    "option_a": "暴力攻擊法與統計分析法",
+    "option_b": "換位加密法與取代加密法",
+    "option_c": "對稱加密法與非對稱加密法",
+    "option_d": "區塊加密法與串流加密法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q031",
+    "question": "根據 AES 標準，其區塊長度不包含下列何者？",
+    "option_a": "128 bits",
+    "option_b": "64 bits",
+    "option_c": "256 bits",
+    "option_d": "192 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q032",
+    "question": "攻擊者已知部分明文和其對應的密文，這種破解技巧稱為什麼？",
+    "option_a": "選擇密文破解",
+    "option_b": "只知密文破解",
+    "option_c": "已知明文破解",
+    "option_d": "選擇明文破解",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q033",
+    "question": "將明文轉換為密文的過程稱為什麼？",
+    "option_a": "編碼",
+    "option_b": "解密",
+    "option_c": "雜湊",
+    "option_d": "加密",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q034",
+    "question": "在 AES 的 ShiftRows 運算中，狀態矩陣的第 1 列(row)會被循環左移幾個位元組？(列數從 0 開始)",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q035",
+    "question": "DES 的哪一個部分被懷疑可能存在後門，但從未被證實？",
+    "option_a": "P-box 的設計",
+    "option_b": "初始排列(IP)",
+    "option_c": "S-box 的設計",
+    "option_d": "終結排列(FP)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q036",
+    "question": "在 Feistel 結構中，如果函數 F 為零函數 (F=0)，加密後結果會是什麼？",
+    "option_a": "密文等於鑰匙",
+    "option_b": "密文為全零",
+    "option_c": "密文為明文的左右半部交換",
+    "option_d": "密文等於明文",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q037",
+    "question": "Three-Keys 3DES 的加密過程是？ (E=加密, D=解密)",
+    "option_a": "D(K1)-E(K2)-D(K3)",
+    "option_b": "E(K1)-E(K2)-E(K3)",
+    "option_c": "E(K3)-D(K2)-E(K1)",
+    "option_d": "E(K1)-D(K2)-E(K3)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q038",
+    "question": "在非對稱密碼系統 (Asymmetric Cryptosystem) 中，加密鑰匙和解密鑰匙的關係是？",
+    "option_a": "沒有關係",
+    "option_b": "互為倒數",
+    "option_c": "完全相同",
+    "option_d": "不相同",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q039",
+    "question": "DES 的區塊長度(Block Size)是多少位元？",
+    "option_a": "32 bits",
+    "option_b": "64 bits",
+    "option_c": "128 bits",
+    "option_d": "56 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q040",
+    "question": "相較於 DES，AES 的主要優勢不包含？",
+    "option_a": "鑰匙長度更長",
+    "option_b": "安全性更高",
+    "option_c": "在多種平台上運算更有效率",
+    "option_d": "使用了 Feistel 結構",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q041",
+    "question": "DES 目前被認為不安全的主要原因為何？",
+    "option_a": "演算法有已知的數學漏洞",
+    "option_b": "56位元的鑰匙長度可被現代計算機暴力破解",
+    "option_c": "區塊長度太短",
+    "option_d": "運算速度過慢",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q042",
+    "question": "下列何者不是 Two-Keys 3DES 的鑰匙組合方式？",
+    "option_a": "K = K1",
+    "option_b": "K = K1 || K2",
+    "option_c": "K = K2",
+    "option_d": "K = K1 XOR K2",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q043",
+    "question": "根據區塊加密的原理，若明文 M 分為 M1 M2 ... Mn，則密文 C 為何？",
+    "option_a": "Ek(Mn)",
+    "option_b": "Ek(M1)||Ek(M2)||...||Ek(Mn)",
+    "option_c": "Ek(M1)",
+    "option_d": "Ek(M1) XOR Ek(M2)",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q044",
+    "question": "DES 演算法流程的第一步與最後一步分別是什麼？",
+    "option_a": "S-box 取代與 P-box 換位",
+    "option_b": "鑰匙擴展與回合運算",
+    "option_c": "初始排列(IP)與終結排列(FP)",
+    "option_d": "XOR 運算與循環左移",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q045",
+    "question": "Two-Keys 3DES 使用幾把不同的 56 位元鑰匙？",
+    "option_a": "4",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q046",
+    "question": "暴力破解法的成功率與什麼最有直接關係？",
+    "option_a": "演算法的複雜度",
+    "option_b": "加密模式",
+    "option_c": "鑰匙的長度",
+    "option_d": "區塊的大小",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q047",
+    "question": "在 ECB 模式中，相同的明文區塊會產生什麼樣的密文區塊？",
+    "option_a": "完全相同的密文區塊",
+    "option_b": "完全不同的密文區塊",
+    "option_c": "互為反向的密文區塊",
+    "option_d": "部分相同的密文區塊",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q048",
+    "question": "嘗試所有可能的鑰匙來破解密碼的方法稱為什麼？",
+    "option_a": "選擇明文攻擊",
+    "option_b": "中間相遇攻擊",
+    "option_c": "統計分析攻擊",
+    "option_d": "暴力攻擊法",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q049",
+    "question": "Feistel 密碼演算法的核心概念依賴於哪個數學運算的基本特性？",
+    "option_a": "NOT",
+    "option_b": "XOR",
+    "option_c": "OR",
+    "option_d": "AND",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q050",
+    "question": "DES 的母鑰匙(Master Key)實際長度是多少位元？",
+    "option_a": "128 bits",
+    "option_b": "64 bits",
+    "option_c": "56 bits",
+    "option_d": "48 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q051",
+    "question": "AES 的 MixColumns 運算在哪個回合不會被執行？",
+    "option_a": "中間的每一回合",
+    "option_b": "所有回合都會執行",
+    "option_c": "最後一回合",
+    "option_d": "第一回合",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q052",
+    "question": "根據密碼系統的真實情況，下列何者是正確的假設？",
+    "option_a": "密文是唾手可得的",
+    "option_b": "密碼演算法必須是保密的",
+    "option_c": "密文是無法被竊聽的",
+    "option_d": "明文格式可以完全隱藏",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q053",
+    "question": "換位加密法中的「鐵軌法」是透過何種方式排列明文字元？",
+    "option_a": "螺旋排列",
+    "option_b": "字母順序排列",
+    "option_c": "隨機排列",
+    "option_d": "上下交錯排列",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q054",
+    "question": "在 CBC 模式中，目前明文區塊在加密前會先和什麼進行 XOR 運算？",
+    "option_a": "鑰匙",
+    "option_b": "初始向量(IV)",
+    "option_c": "前一個密文區塊",
+    "option_d": "前一個明文區塊",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q055",
+    "question": "DES 演算法中的擴展排列(E-table)將 32 位元的輸入擴展為多少位元？",
+    "option_a": "48 bits",
+    "option_b": "32 bits",
+    "option_c": "64 bits",
+    "option_d": "56 bits",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q056",
+    "question": "Two-Keys 3DES 的有效鑰匙長度是多少？",
+    "option_a": "168 bits",
+    "option_b": "224 bits",
+    "option_c": "112 bits",
+    "option_d": "56 bits",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q057",
+    "question": "哪一種密碼破解技巧對於破解簡單的取代加密法(如凱撒密碼)特別有效？",
+    "option_a": "暴力攻擊法",
+    "option_b": "頻率分析法",
+    "option_c": "生日攻擊",
+    "option_d": "中間相遇攻擊",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q058",
+    "question": "在 AES 的 ShiftRows 運算中，狀態矩陣的第 3 列(row)會被循環左移幾個位元組？",
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "1",
+    "option_d": "0",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q059",
+    "question": "換位加密法中的「鑰匙排列法」需要一個什麼樣的關鍵(key)？",
+    "option_a": "一個矩陣",
+    "option_b": "一個數字作為位移量",
+    "option_c": "一個單字作為密碼",
+    "option_d": "一組數字定義欄位讀取順序",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q060",
+    "question": "AES 的設計原則之一是抵抗所有已知的密碼攻擊方式，這使其具有較高的什麼？",
+    "option_a": "加密速度",
+    "option_b": "安全性",
+    "option_c": "相容性",
+    "option_d": "易用性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q061",
+    "question": "在 Feistel 加密結構中，每一回合的輸入區塊會被分成幾個部分？",
+    "option_a": "四個",
+    "option_b": "八個",
+    "option_c": "兩個",
+    "option_d": "一個",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q062",
+    "question": "傳統密碼系統的安全性主要依賴於什麼的保密？",
+    "option_a": "鑰匙的保密",
+    "option_b": "密文長度的保密",
+    "option_c": "明文格式的保密",
+    "option_d": "演算法的保密",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q063",
+    "question": "下列何者最能描述『擴散』(Diffusion) 的效果？",
+    "option_a": "加密前後資料長度不變",
+    "option_b": "一個鑰匙字元的改變只影響一個密文字元",
+    "option_c": "密文與鑰匙無關",
+    "option_d": "一個明文字元的改變會影響多個密文字元",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q064",
+    "question": "如果使用 3DES 加密，但 K1=K2，其加密效果等同於？",
+    "option_a": "DES 使用 K3 加密",
+    "option_b": "無法解密",
+    "option_c": "DES 使用 K1 加密",
+    "option_d": "兩次 DES 加密",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q065",
+    "question": "DES 演算法中的 P-box 排列主要作用為何？",
+    "option_a": "混淆",
+    "option_b": "金鑰生成",
+    "option_c": "取代",
+    "option_d": "擴散",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q066",
+    "question": "『反覆區段編碼』(Iterated Block Cipher) 是哪一種加密標準的編碼演算法？",
+    "option_a": "RSA",
+    "option_b": "DES",
+    "option_c": "AES",
+    "option_d": "MD5",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q067",
+    "question": "AES 中的 MixColumns 運算是基於哪一種數學領域的運算？",
+    "option_a": "數論",
+    "option_b": "有限場(Finite Field)算術",
+    "option_c": "微積分",
+    "option_d": "線性代數",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q068",
+    "question": "『kryptos』與『graphein』是哪一門學科的字源？",
+    "option_a": "密碼學",
+    "option_b": "考古學",
+    "option_c": "統計學",
+    "option_d": "語言學",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q069",
+    "question": "只知道密文的情況下進行破解，是哪一種攻擊類型？",
+    "option_a": "已知明文破解",
+    "option_b": "選擇明文破解",
+    "option_c": "選擇密文破解",
+    "option_d": "只知密文破解",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q070",
+    "question": "許多傳統對稱式密碼系統的基礎演算法是？",
+    "option_a": "Feistel 加密法",
+    "option_b": "RSA 加密法",
+    "option_c": "ECC 加密法",
+    "option_d": "SHA 雜湊函數",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q071",
+    "question": "在 DES 的每一回合中，使用的子鑰匙(Sub-key)長度是多少位元？",
+    "option_a": "56 bits",
+    "option_b": "64 bits",
+    "option_c": "32 bits",
+    "option_d": "48 bits",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q072",
+    "question": "AES-256 (區塊 128 bits, 鑰匙 256 bits) 總共需要重複幾回合的運算？",
+    "option_a": "16",
+    "option_b": "12",
+    "option_c": "14",
+    "option_d": "10",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q073",
+    "question": "Feistel 結構確保了加密過程是可逆的，前提是哪一個元件可以不需要是可逆的？",
+    "option_a": "函數 F",
+    "option_b": "鑰匙產生器",
+    "option_c": "區塊分割",
+    "option_d": "XOR 運算",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q074",
+    "question": "AES 全名為 Advanced Encryption Standard，它採用了哪一種演算法？",
+    "option_a": "Rijndael 演算法",
+    "option_b": "DES 演算法",
+    "option_c": "Feistel 演算法",
+    "option_d": "RSA 演算法",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q075",
+    "question": "AES 的數學基礎是建立在哪種運算上？",
+    "option_a": "矩陣運算",
+    "option_b": "有限場(Finite Field)運算",
+    "option_c": "實數運算",
+    "option_d": "複數運算",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q076",
+    "question": "AES 的四個基本運算不包含下列何者？",
+    "option_a": "ShiftRows (列移位)",
+    "option_b": "MixColumns (混合行)",
+    "option_c": "SubBytes (位元組取代)",
+    "option_d": "Permutation (初始排列)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q077",
+    "question": "下列何者為非對稱式密碼演算法？",
+    "option_a": "RSA",
+    "option_b": "Blowfish",
+    "option_c": "AES",
+    "option_d": "3DES",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q078",
+    "question": "一個密碼系統被認為是「計算上安全」的，其條件不包含？",
+    "option_a": "破解時間超過鑰匙壽命",
+    "option_b": "破解成本高於訊息價值",
+    "option_c": "演算法數學上無法破解",
+    "option_d": "演算法具有高複雜度",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q079",
+    "question": "在 Feistel 密碼演算法的解密過程中，子鑰匙的使用順序與加密時有何關係？",
+    "option_a": "不需要子鑰匙",
+    "option_b": "完全相同",
+    "option_c": "隨機使用",
+    "option_d": "完全相反",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q080",
+    "question": "DES 全名為 Data Encryption Standard，是哪一國的國家標準？",
+    "option_a": "日本",
+    "option_b": "美國",
+    "option_c": "德國",
+    "option_d": "英國",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q081",
+    "question": "在傳統密碼學中，哪一種加密法比較能抵抗頻率分析攻擊？",
+    "option_a": "簡單取代加密法",
+    "option_b": "換位加密法",
+    "option_c": "凱撒密碼",
+    "option_d": "多字母取代加密法",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q082",
+    "question": "AES-128 的鑰匙長度是多少位元？",
+    "option_a": "256 bits",
+    "option_b": "128 bits",
+    "option_c": "192 bits",
+    "option_d": "64 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q083",
+    "question": "在演算法複雜度中，「擴散」(Diffusion)指的是什麼之間的複雜關係？",
+    "option_a": "明文與鑰匙",
+    "option_b": "明文與密文",
+    "option_c": "密文與鑰匙",
+    "option_d": "鑰匙與演算法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q084",
+    "question": "AES 的 ShiftRows 和 MixColumns 運算主要貢獻了哪一項安全性特性？",
+    "option_a": "擴散 (Diffusion)",
+    "option_b": "鑰匙擴充",
+    "option_c": "取代運算",
+    "option_d": "混淆 (Confusion)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q085",
+    "question": "在 Feistel 加密結構中，第 i 回合的輸出左半部(LEi+1)等於什麼？",
+    "option_a": "REi",
+    "option_b": "LEi",
+    "option_c": "F(REi Ki)",
+    "option_d": "LEi XOR REi",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q086",
+    "question": "區塊加密(Block Cipher)在加密時如何處理明文？",
+    "option_a": "將明文分段後再逐段加密",
+    "option_b": "將整個明文視為一個單位加密",
+    "option_c": "只加密明文的開頭部分",
+    "option_d": "一次只加密一個位元",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q087",
+    "question": "DES 加密核心的 f 函數中，將 48 位元的輸入轉換為 32 位元輸出的元件是什麼？",
+    "option_a": "XOR 運算",
+    "option_b": "P-box 換位",
+    "option_c": "擴展排列 (E-table)",
+    "option_d": "S-box 取代",
+    "answer": "D"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q088",
+    "question": "在 AES 的 AddRoundKey 步驟中，state 陣列的每個位元組和回合鑰匙的對應位元組進行何種運算？",
+    "option_a": "XOR",
+    "option_b": "AND",
+    "option_c": "OR",
+    "option_d": "ADD",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q089",
+    "question": "DES 的初始排列(IP)與終結排列(FP)屬於哪一種類型的加密法？",
+    "option_a": "取代加密法",
+    "option_b": "串流加密法",
+    "option_c": "換位加密法",
+    "option_d": "非對稱加密法",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q090",
+    "question": "DES 的 S-box 設計主要貢獻了哪一項安全性特性？",
+    "option_a": "混淆 (Confusion)",
+    "option_b": "擴散 (Diffusion)",
+    "option_c": "金鑰排程",
+    "option_d": "雪崩效應",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q091",
+    "question": "在 DES 的 f 函數中，總共有幾個 S-box？",
+    "option_a": "16",
+    "option_b": "8",
+    "option_c": "4",
+    "option_d": "6",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q092",
+    "question": "將明文中字元的位置重新排列以形成密文的加密法稱為什麼？",
+    "option_a": "換位加密法",
+    "option_b": "維吉尼亞密碼",
+    "option_c": "凱撒密碼",
+    "option_d": "取代加密法",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q093",
+    "question": "如果明文是「ATTACK AT DAWN」，使用順序反轉加密法，密文為何？",
+    "option_a": "NWAD TA KCATTA",
+    "option_b": "NWA DTA KCATTA",
+    "option_c": "ATTACK AT DAWN",
+    "option_d": "KCATTA TA NWAD",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q094",
+    "question": "AES 的狀態矩陣(State)大小是多少？",
+    "option_a": "4x4 位元組",
+    "option_b": "4x4 位元",
+    "option_c": "8x8 位元組",
+    "option_d": "8x8 位元",
+    "answer": "A"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q095",
+    "question": "DES 的每個 S-box 將多少位元的輸入轉換為多少位元的輸出？",
+    "option_a": "輸入 6 位元->輸出 8 位元",
+    "option_b": "輸入 6 位元->輸出 4 位元",
+    "option_c": "輸入 4 位元->輸出 6 位元",
+    "option_d": "輸入 8 位元->輸出 6 位元",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q096",
+    "question": "哪一種演算法是為了取代 DES 而公開徵選出來的？",
+    "option_a": "Blowfish",
+    "option_b": "AES",
+    "option_c": "Twofish",
+    "option_d": "3DES",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q097",
+    "question": "在『換位加密法-鑰匙排列法』中，如果鑰匙是【213】，明文是「ABCDEF」，密文為何？",
+    "option_a": "BEADCF",
+    "option_b": "BADCFE",
+    "option_c": "EBFADC",
+    "option_d": "B A D C F E",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q098",
+    "question": "在 DES 流程圖中，f 函數的輸入除了資料區塊外，還需要什麼？",
+    "option_a": "前一回合的密文",
+    "option_b": "子鑰匙",
+    "option_c": "母鑰匙",
+    "option_d": "初始向量",
+    "answer": "B"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q099",
+    "question": "哪一種區塊加密模式最不安全，不建議使用？",
+    "option_a": "CBC",
+    "option_b": "CFB",
+    "option_c": "ECB",
+    "option_d": "OFB",
+    "answer": "C"
+  },
+  {
+    "chapter": "第二章 傳統秘密鑰匙系統",
+    "question_id": "CH06_Q100",
+    "question": "在演算法複雜度中，「混淆」(Confusion)指的是什麼之間的複雜關係？",
+    "option_a": "鑰匙與演算法",
+    "option_b": "密文與鑰匙",
+    "option_c": "明文與鑰匙",
+    "option_d": "明文與密文",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q001",
+    "question": "DH 演算法中的 g 必須是 n 的什麼？",
+    "option_a": "平方根",
+    "option_b": "質因數",
+    "option_c": "原根 (Primitive Root)",
+    "option_d": "倒數",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q002",
+    "question": "計算 φ(9) 的結果是？",
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "8",
+    "option_d": "6",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q003",
+    "question": "計算 19^2 mod 119 的結果是？",
+    "option_a": "19",
+    "option_b": "4",
+    "option_c": "361",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q004",
+    "question": "RSA 加密通常用於什麼情境？",
+    "option_a": "加密少量資料（如對稱鑰匙）",
+    "option_b": "加密大量資料",
+    "option_c": "產生亂數",
+    "option_d": "計算雜湊值",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q005",
+    "question": "計算 (3+6) mod 15 的結果是？",
+    "option_a": "0",
+    "option_b": "15",
+    "option_c": "9",
+    "option_d": "5",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q006",
+    "question": "DH 演算法可以用於？",
+    "option_a": "以上皆是",
+    "option_b": "一對一通訊",
+    "option_c": "多對多會議",
+    "option_d": "一對多廣播",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q007",
+    "question": "RSA 中的 n 通常被稱為什麼？",
+    "option_a": "公鑰",
+    "option_b": "私鑰",
+    "option_c": "模數",
+    "option_d": "指數",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q008",
+    "question": "在 mod 10 的運算中，7 * 3 的結果為何？",
+    "option_a": "1",
+    "option_b": "21",
+    "option_c": "7",
+    "option_d": "3",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q009",
+    "question": "在 DH 中間人攻擊中，Trudy 與 Bob 共享的密鑰是？",
+    "option_a": "g^(yz) mod n",
+    "option_b": "g^(xy) mod n",
+    "option_c": "g^(xz) mod n",
+    "option_d": "g^(zy) mod n",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q010",
+    "question": "根據同餘乘法 [(a mod n) * (b mod n)] mod n 的特性，它會等於下列何者？",
+    "option_a": "(a - b) mod n",
+    "option_b": "(a * b) mod n",
+    "option_c": "(a / b) mod n",
+    "option_d": "(a + b) mod n",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q011",
+    "question": "歐拉函數 φ(7) 的值是多少？",
+    "option_a": "5",
+    "option_b": "7",
+    "option_c": "6",
+    "option_d": "1",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q012",
+    "question": "費馬小定理適用於當 p 是什麼數的情況？",
+    "option_a": "質數",
+    "option_b": "偶數",
+    "option_c": "合數",
+    "option_d": "奇數",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q013",
+    "question": "費馬小定理的變形 a^p ≡ ? mod p，問號處應填入什麼？",
+    "option_a": "p",
+    "option_b": "a",
+    "option_c": "1",
+    "option_d": "0",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q014",
+    "question": "如果 a mod n = r，那麼 (a+n) mod n 的結果是什麼？",
+    "option_a": "n",
+    "option_b": "r",
+    "option_c": "r+n",
+    "option_d": "0",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q015",
+    "question": "若 p=19，φ(19) 的值是？",
+    "option_a": "1",
+    "option_b": "18",
+    "option_c": "20",
+    "option_d": "19",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q016",
+    "question": "在 DH 的中間人攻擊中，攻擊者 Trudy 做了什麼？",
+    "option_a": "破解離散對數",
+    "option_b": "猜測 x 和 y",
+    "option_c": "竊聽訊息",
+    "option_d": "攔截 Alice 和 Bob 的通訊並偽裝成對方",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q017",
+    "question": "同餘指數的特性 (a mod n)^b mod n 等於下列何者？",
+    "option_a": "(a*b) mod n",
+    "option_b": "a^b mod n",
+    "option_c": "(a+b) mod n",
+    "option_d": "(a-b) mod n",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q018",
+    "question": "在 DH 鑰匙交換中，哪些是公開的參數？",
+    "option_a": "n 和 g",
+    "option_b": "Alice 的私鑰 x",
+    "option_c": "共享的秘密鑰匙",
+    "option_d": "Bob 的私鑰 y",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q019",
+    "question": "在 x^y mod 10 的指數表中，2^4 mod 10 的結果是什麼？",
+    "option_a": "16",
+    "option_b": "4",
+    "option_c": "6",
+    "option_d": "2",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q020",
+    "question": "DH 演算法本身提供了什麼？",
+    "option_a": "數位簽章",
+    "option_b": "鑰匙交換",
+    "option_c": "身份認證",
+    "option_d": "加密",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q021",
+    "question": "計算 (9+8) mod 15 的結果是？",
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "17",
+    "option_d": "0",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q022",
+    "question": "攻擊 RSA 的數學方法中，最直接的方式是？",
+    "option_a": "猜測私鑰 d",
+    "option_b": "暴力攻擊法",
+    "option_c": "對 n 進行因數分解",
+    "option_d": "計算 φ(n)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q023",
+    "question": "在 RSA 中，加密運算的公式為何？",
+    "option_a": "C ≡ M^e mod n",
+    "option_b": "C ≡ M^d mod n",
+    "option_c": "C ≡ M+e mod n",
+    "option_d": "C ≡ M*e mod n",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q024",
+    "question": "在 RSA 演算法中，n 是如何計算出來的？",
+    "option_a": "n = p / q",
+    "option_b": "n = p - q",
+    "option_c": "n = p + q",
+    "option_d": "n = p * q",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q025",
+    "question": "在 mod 10 的乘法表中，5 * 任何偶數 的結果是什麼？",
+    "option_a": "偶數本身",
+    "option_b": "0",
+    "option_c": "5",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q026",
+    "question": "計算 9 * 9 mod 10 的結果是什麼？",
+    "option_a": "81",
+    "option_b": "9",
+    "option_c": "1",
+    "option_d": "0",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q027",
+    "question": "RSA 的安全性主要基於哪個數學難題？",
+    "option_a": "橢圓曲線問題",
+    "option_b": "離散對數問題",
+    "option_c": "背包問題",
+    "option_d": "質因數分解問題",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q028",
+    "question": "在 DH 演算法中，Alice 選擇了私鑰 x，她會傳送什麼給 Bob？",
+    "option_a": "x",
+    "option_b": "g^y mod n",
+    "option_c": "g^x mod n",
+    "option_d": "g^xy mod n",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q029",
+    "question": "計算 (12 + 13) mod 15 的結果是？",
+    "option_a": "5",
+    "option_b": "25",
+    "option_c": "10",
+    "option_d": "0",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q030",
+    "question": "歐拉函數 φ(15) 等於多少？ (15 = 3*5)",
+    "option_a": "4",
+    "option_b": "φ(3)*φ(5) = 2*4 = 8",
+    "option_c": "14",
+    "option_d": "7",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q031",
+    "question": "在 RSA 中，如果攻擊者能夠將 n 分解成 p 和 q，他下一步會做什麼來破解私鑰？",
+    "option_a": "計算 φ(n) = (p-1)(q-1)",
+    "option_b": "直接猜測 d",
+    "option_c": "暴力破解 e",
+    "option_d": "計算 n 的平方根",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q032",
+    "question": "為什麼 RSA 不適合加密大量資料？",
+    "option_a": "因為只能加密數字",
+    "option_b": "因為運算速度相對較慢",
+    "option_c": "因為不安全",
+    "option_d": "因為鑰匙太長",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q033",
+    "question": "Bob 收到 Alice 傳來的 g^x mod n 後，他如何計算出共享秘密鑰匙？",
+    "option_a": "(g^y mod n)^x mod n",
+    "option_b": "g^(x+y) mod n",
+    "option_c": "(g^x mod n)^y mod n",
+    "option_d": "x*y mod n",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q034",
+    "question": "在 RSA 中，解密運算的公式為何？",
+    "option_a": "M ≡ C^d mod n",
+    "option_b": "M ≡ C*d mod n",
+    "option_c": "M ≡ C^e mod n",
+    "option_d": "M ≡ C+d mod n",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q035",
+    "question": "計算 2^8 mod 7 的結果是？",
+    "option_a": "4",
+    "option_b": "256",
+    "option_c": "1",
+    "option_d": "2",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q036",
+    "question": "在 RSA 中，如果選擇的 e 與 φ(n) 不互質，會發生什麼事？",
+    "option_a": "加密會更安全",
+    "option_b": "無法找到對應的私鑰 d",
+    "option_c": "不會有任何影響",
+    "option_d": "解密會變快",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q037",
+    "question": "在 RSA 中，私有指數 d 是如何計算出來的？",
+    "option_a": "e+d ≡ 1 mod φ(n)",
+    "option_b": "e*d ≡ 1 mod φ(n)",
+    "option_c": "e-d ≡ 1 mod n",
+    "option_d": "e*d ≡ 1 mod n",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q038",
+    "question": "在中間人攻擊中，Alice 認為她和誰建立了秘密鑰匙？",
+    "option_a": "Bob",
+    "option_b": "沒有人",
+    "option_c": "她自己",
+    "option_d": "Trudy",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q039",
+    "question": "計算 φ(19) 的結果是什麼？",
+    "option_a": "18",
+    "option_b": "1",
+    "option_c": "20",
+    "option_d": "19",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q040",
+    "question": "DH 演算法最終產生的共享秘密鑰匙是什麼？",
+    "option_a": "g^(x+y) mod n",
+    "option_b": "g^x mod n",
+    "option_c": "g^y mod n",
+    "option_d": "g^(xy) mod n",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q041",
+    "question": "3 mod 5 的結果是？",
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "5",
+    "option_d": "0.6",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q042",
+    "question": "在 DH 演算法中，如果 Alice 和 Bob 都選擇相同的私鑰 (x=y)，會發生什麼事？",
+    "option_a": "會產生錯誤",
+    "option_b": "他們會計算出相同的公開值 (g^x mod n)，但仍可安全建立共享鑰匙",
+    "option_c": "建立的鑰匙不安全",
+    "option_d": "無法建立鑰匙",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q043",
+    "question": "為了防止對 RSA 的計時攻擊 (Timing Attack)，實作上應該注意什麼？",
+    "option_a": "頻繁更換鑰匙",
+    "option_b": "使用更長的鑰匙",
+    "option_c": "讓加密/解密運算時間固定，與輸入內容無關",
+    "option_d": "選擇更大的 p 和 q",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q044",
+    "question": "若 p=3，φ(3) 的值是？",
+    "option_a": "0",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q045",
+    "question": "如果 n = p * q，且 p 和 q 是不同的質數，φ(n) 等於？",
+    "option_a": "q-1",
+    "option_b": "(p-1)(q-1)",
+    "option_c": "p-1",
+    "option_d": "n-1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q046",
+    "question": "計算 16 * 19 mod 119 的結果是？",
+    "option_a": "304",
+    "option_b": "66",
+    "option_c": "19",
+    "option_d": "16",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q047",
+    "question": "防禦 DH 中間人攻擊的方法之一是？",
+    "option_a": "頻繁更換 n 和 g",
+    "option_b": "使用更長的鑰匙",
+    "option_c": "隱藏 g^x mod n",
+    "option_d": "公開或認證 Diffie-Hellman 的參數",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q048",
+    "question": "RSA 演算法在哪一年被提出？",
+    "option_a": "1987",
+    "option_b": "1977",
+    "option_c": "2007",
+    "option_d": "1997",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q049",
+    "question": "DH 演算法是否可以讓 Alice 和 Bob 產生一個預先決定的特定鑰匙？",
+    "option_a": "是，只要 n 是質數",
+    "option_b": "是，只要 g=1",
+    "option_c": "是，只要選擇特定的 x 和 y",
+    "option_d": "否，產生的鑰匙取決於雙方的私鑰選擇，無法預先指定",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q050",
+    "question": "RSA 演算法是哪一種類型的密碼系統？",
+    "option_a": "雜湊函數",
+    "option_b": "對稱密碼系統",
+    "option_c": "串流加密",
+    "option_d": "非對稱密碼系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q051",
+    "question": "計算 7^4 mod 19 等於 (7^2)^2 mod 19，其結果是？",
+    "option_a": "11^2 mod 19 = 7",
+    "option_b": "11+2 mod 19 = 13",
+    "option_c": "7*2 mod 19 = 14",
+    "option_d": "49^2 mod 19 = 1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q052",
+    "question": "Diffie-Hellman 演算法容易受到哪種攻擊？",
+    "option_a": "重送攻擊",
+    "option_b": "頻率分析攻擊",
+    "option_c": "暴力攻擊",
+    "option_d": "中間人攻擊",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q053",
+    "question": "計算 6^2 mod 10 的結果是？",
+    "option_a": "0",
+    "option_b": "36",
+    "option_c": "2",
+    "option_d": "6",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q054",
+    "question": "計算 (10 * 4) mod 13 的結果是？",
+    "option_a": "4",
+    "option_b": "10",
+    "option_c": "40",
+    "option_d": "1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q055",
+    "question": "在 RSA 中，歐拉函數 φ(n) 是如何計算的 (其中 n=pq)？",
+    "option_a": "φ(n) = (p-1)(q-1)",
+    "option_b": "φ(n) = n-1",
+    "option_c": "φ(n) = p*q",
+    "option_d": "φ(n) = p+q-1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q056",
+    "question": "RSA 演算法的命名來源是？",
+    "option_a": "一個希臘神話人物",
+    "option_b": "演算法的特性",
+    "option_c": "發明者的姓名縮寫",
+    "option_d": "一個電腦的名稱",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q057",
+    "question": "如果 a*b ≡ 0 mod n，且 n 是質數，這代表什麼？",
+    "option_a": "a 和 b 都是 n 的倍數",
+    "option_b": "a=0 或 b=0",
+    "option_c": "a=0",
+    "option_d": "b=0",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q058",
+    "question": "計算 3^4 mod 10 的結果是什麼？",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "81",
+    "option_d": "1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q059",
+    "question": "歐拉函數 φ(n) (Euler's Totient Function) 的定義是什麼？",
+    "option_a": "小於 n 且為 n 的因數之個數",
+    "option_b": "小於 n 且與 n 互質之正整數的數目",
+    "option_c": "大於 n 且與 n 互質之正整數的數目",
+    "option_d": "小於 n 的所有質數個數",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q060",
+    "question": "在 mod 10 的運算中，9 + 9 的結果為何？",
+    "option_a": "18",
+    "option_b": "0",
+    "option_c": "9",
+    "option_d": "8",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q061",
+    "question": "在中間人攻擊中，Bob 認為他和誰建立了秘密鑰匙？",
+    "option_a": "Trudy",
+    "option_b": "沒有人",
+    "option_c": "Alice",
+    "option_d": "他自己",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q062",
+    "question": "DH 演算法的安全性基於哪個數學難題？",
+    "option_a": "質因數分解問題",
+    "option_b": "離散對數問題",
+    "option_c": "背包問題",
+    "option_d": "旅行推銷員問題",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q063",
+    "question": "計算 (48 + 66) mod 15 的結果是什麼？",
+    "option_a": "3",
+    "option_b": "6",
+    "option_c": "9",
+    "option_d": "12",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q064",
+    "question": "Diffie-Hellman 演算法在哪一年被提出？",
+    "option_a": "1976",
+    "option_b": "1991",
+    "option_c": "1984",
+    "option_d": "2000",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q065",
+    "question": "φ(21) 等於多少？ (21 = 3*7)",
+    "option_a": "10",
+    "option_b": "20",
+    "option_c": "6",
+    "option_d": "φ(3)*φ(7) = 2*6 = 12",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q066",
+    "question": "DH 演算法中的 g 通常被稱為什麼？",
+    "option_a": "公鑰 (Public Key)",
+    "option_b": "模數 (Modulus)",
+    "option_c": "私鑰 (Private Key)",
+    "option_d": "基底 (Base) 或生成元 (Generator) 或「原根」(Primitive Root)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q067",
+    "question": "計算 φ(10) 的結果是什麼？",
+    "option_a": "2",
+    "option_b": "10",
+    "option_c": "4",
+    "option_d": "5",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q068",
+    "question": "計算 10^3 mod 11 的結果是？",
+    "option_a": "1000",
+    "option_b": "10",
+    "option_c": "0",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q069",
+    "question": "計算 (14 * 3) mod 15 的結果是？",
+    "option_a": "12",
+    "option_b": "0",
+    "option_c": "42",
+    "option_d": "2",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q070",
+    "question": "在 RSA 中，p 和 q 必須是什麼數？",
+    "option_a": "偶數",
+    "option_b": "質數",
+    "option_c": "奇數",
+    "option_d": "任意整數",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q071",
+    "question": "計算 7 + 8 mod 10 的結果是什麼？",
+    "option_a": "15",
+    "option_b": "8",
+    "option_c": "5",
+    "option_d": "7",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q072",
+    "question": "在 DH 中間人攻擊中，攻擊者 Trudy 總共會產生幾組不同的秘密鑰匙？",
+    "option_a": "一組",
+    "option_b": "兩組",
+    "option_c": "三組",
+    "option_d": "零組",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q073",
+    "question": "歐拉函數 φ(8) 的值是多少？",
+    "option_a": "6",
+    "option_b": "2",
+    "option_c": "7",
+    "option_d": "4",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q074",
+    "question": "計算 5^2 mod 7 的結果是？",
+    "option_a": "2",
+    "option_b": "25",
+    "option_c": "4",
+    "option_d": "5",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q075",
+    "question": "如果 Alice 和 Bob 使用 DH 交換鑰匙，然後用該鑰匙進行 AES 加密通訊，這屬於哪種加密系統？",
+    "option_a": "對稱加密",
+    "option_b": "混合式加密 (Hybrid Cryptosystem)",
+    "option_c": "雜湊",
+    "option_d": "非對稱加密",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q076",
+    "question": "Diffie-Hellman (DH) 演算法的主要目的是什麼？",
+    "option_a": "加密訊息",
+    "option_b": "在不安全的通道上協議產生共享的秘密鑰匙",
+    "option_c": "數位簽章",
+    "option_d": "身份認證",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q077",
+    "question": "攻擊 RSA 的「暴力攻擊法」指的是？",
+    "option_a": "嘗試所有可能的明文",
+    "option_b": "嘗試所有可能的私鑰 d",
+    "option_c": "嘗試分解 n",
+    "option_d": "嘗試猜測 p 和 q",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q078",
+    "question": "10 mod 10 的結果是什麼？",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "無法計算",
+    "option_d": "10",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q079",
+    "question": "在 RSA 參數選擇中，(p-1) 和 (q-1) 應該具有什麼特性以增加安全性？",
+    "option_a": "都應該含有一個很大的質因數",
+    "option_b": "都是 2 的次方",
+    "option_c": "數值應該很小",
+    "option_d": "互為倒數",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q080",
+    "question": "在 RSA 中，如果 d 被洩漏了，會發生什麼事？",
+    "option_a": "需要重新產生 p 和 q",
+    "option_b": "所有使用對應公鑰加密的訊息都將被破解",
+    "option_c": "不會有影響",
+    "option_d": "只有私鑰 d 的擁有者無法再解密",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q081",
+    "question": "計算 4096 mod 13 的結果是？",
+    "option_a": "1",
+    "option_b": "12",
+    "option_c": "0",
+    "option_d": "5",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q082",
+    "question": "如果 p 是一個質數，則 φ(p) 等於多少？",
+    "option_a": "p/2",
+    "option_b": "p+1",
+    "option_c": "p",
+    "option_d": "p-1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q083",
+    "question": "計算 (10 * 10) mod 13 的結果是？",
+    "option_a": "1",
+    "option_b": "10",
+    "option_c": "9",
+    "option_d": "100",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q084",
+    "question": "RSA 的解密過程 (M^e)^d mod n 會等於什麼？",
+    "option_a": "M^(e+d) mod n",
+    "option_b": "M^(e-d) mod n",
+    "option_c": "M mod n",
+    "option_d": "M^(e*d) mod n",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q085",
+    "question": "計算 4^6 mod 13 的結果是什麼？",
+    "option_a": "4096",
+    "option_b": "4",
+    "option_c": "6",
+    "option_d": "1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q086",
+    "question": "根據費馬小定理，7^18 mod 19 的結果是什麼？",
+    "option_a": "7",
+    "option_b": "18",
+    "option_c": "1",
+    "option_d": "19",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q087",
+    "question": "【課外題】相較於 RSA，ECC 的主要優點是什麼？",
+    "option_a": "演算法較簡單",
+    "option_b": "防禦量子攻擊",
+    "option_c": "運算速度更快",
+    "option_d": "可以用較短的鑰匙長度達到同等的安全強度",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q088",
+    "question": "一般在實作 RSA 時，為了計算方便，公開指數 e 常被選為一個固定的數值，例如？",
+    "option_a": "10",
+    "option_b": "4",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q089",
+    "question": "根據同餘加法 [(a mod n) + (b mod n)] mod n 的特性，它會等於下列何者？",
+    "option_a": "(a - b) mod n",
+    "option_b": "(a * b) mod n",
+    "option_c": "(a + b) mod n",
+    "option_d": "(a / b) mod n",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q090",
+    "question": "Bob 收到 Alice 的數位簽章後，會用什麼來解密並驗證？",
+    "option_a": "Alice 的公開鑰匙",
+    "option_b": "他的公開鑰匙",
+    "option_c": "他的私有鑰匙",
+    "option_d": "Alice 的私有鑰匙",
+    "answer": "A"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q091",
+    "question": "在同餘算數中，a ≡ b mod n 表示什麼？",
+    "option_a": "a 乘以 b 等於 n",
+    "option_b": "a 加 b 等於 n",
+    "option_c": "a 等於 b",
+    "option_d": "a 除以 n 的餘數等於 b 除以 n 的餘數",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q092",
+    "question": "計算 56 mod 13 的結果是？",
+    "option_a": "3",
+    "option_b": "4",
+    "option_c": "0",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q093",
+    "question": "在 RSA 簽章中，Alice 會用什麼來對訊息的雜湊值進行加密？",
+    "option_a": "Bob 的私有鑰匙",
+    "option_b": "Bob 的公開鑰匙",
+    "option_c": "她的私有鑰匙",
+    "option_d": "她的公開鑰匙",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q094",
+    "question": "計算 114 mod 15 的結果是？",
+    "option_a": "0",
+    "option_b": "6",
+    "option_c": "9",
+    "option_d": "3",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q095",
+    "question": "在 mod 10 的乘法表中，3 * 7 的結果是什麼？",
+    "option_a": "3",
+    "option_b": "7",
+    "option_c": "21",
+    "option_d": "1",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q096",
+    "question": "為了 RSA 的安全性，質數 p 和 q 的選擇應該？",
+    "option_a": "p 是 q 的倍數",
+    "option_b": "p 和 q 都應該是小質數",
+    "option_c": "p 和 q 相差懸殊",
+    "option_d": "p 和 q 的長度不要相差太多",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q097",
+    "question": "計算 (4*8) mod 13 的結果是？",
+    "option_a": "32",
+    "option_b": "8",
+    "option_c": "6",
+    "option_d": "4",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q098",
+    "question": "在 DH 協議中，Alice 的私鑰 x 和 Bob 的私鑰 y 是否會被傳送出去？",
+    "option_a": "只有 x 會被傳送",
+    "option_b": "只有 y 會被傳送",
+    "option_c": "否，永遠不會被傳送",
+    "option_d": "是，都會被傳送",
+    "answer": "C"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q099",
+    "question": "費馬小定理 (Fermat's Little Theorem) 的定義是？（p 為質數，a 不是 p 的倍數）",
+    "option_a": "a^p ≡ p mod a",
+    "option_b": "a^p ≡ 1 mod p",
+    "option_c": "a^(p-1) ≡ a mod p",
+    "option_d": "a^(p-1) ≡ 1 mod p",
+    "answer": "D"
+  },
+  {
+    "chapter": "第三章 現代公開鑰匙系統",
+    "question_id": "CH07_Q100",
+    "question": "15 mod 10 的結果是什麼？",
+    "option_a": "15",
+    "option_b": "5",
+    "option_c": "1.5",
+    "option_d": "1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q001",
+    "question": "檔案中提到的 CRC (Cyclic Redundancy Code) 為何不符合弱雜湊函數的條件？",
+    "option_a": "因為它只能由硬體實現，無法用軟體",
+    "option_b": "因為它產生的碼長度不固定",
+    "option_c": "因為可以輕易找出兩個不同訊息 M1 和 M2，使得 H(M1) = H(M2)",
+    "option_d": "因為它的運算速度太慢",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q002",
+    "question": "MD5 演算法在處理輸入訊息時，是將訊息切割成多少位元大小的區段來進行運算？",
+    "option_a": "128 bits",
+    "option_b": "256 bits",
+    "option_c": "512 bits",
+    "option_d": "1024 bits",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q003",
+    "question": "SHA-1 演算法所產生的雜湊值長度為多少位元？",
+    "option_a": "256 bits",
+    "option_b": "128 bits",
+    "option_c": "512 bits",
+    "option_d": "160 bits",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q004",
+    "question": "MD5 演算法的初始向量 (IV) 長度是多少？",
+    "option_a": "128 bits",
+    "option_b": "64 bits",
+    "option_c": "512 bits",
+    "option_d": "160 bits",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q005",
+    "question": "在 SHA-1 演算法中，第四回合使用的輸入常數 K4 是多少？",
+    "option_a": "6ED9EBA1",
+    "option_b": "8F1BBCDC",
+    "option_c": "CA62C1D6",
+    "option_d": "5A82799",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q006",
+    "question": "MD5 演算法中，輸入的原文訊息若長度不足，需要進行填充，填充的內容不包含下列何者？",
+    "option_a": "附加位元",
+    "option_b": "初始向量 (IV)",
+    "option_c": "原文訊息",
+    "option_d": "訊息長度",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q007",
+    "question": "MD5 演算法的 RFC (Request for Comments) 文件編號為何？",
+    "option_a": "RFC 1319",
+    "option_b": "RFC 1320",
+    "option_c": "FIPS PUB 180",
+    "option_d": "RFC 1321",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q008",
+    "question": "在 SHA-1 的壓縮函數中，暫存器 C 的下一次的值是如何決定的？",
+    "option_a": "等於本次的 A",
+    "option_b": "等於本次的 D",
+    "option_c": "等於本次의 E",
+    "option_d": "將本次的 B 向左迴旋 30 個位元 (S³⁰(B))",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q009",
+    "question": "給定線性同餘法參數 m=13, a=2, c=1, X0=1，請問 X1 的值是多少？",
+    "option_a": "7",
+    "option_b": "2",
+    "option_c": "1",
+    "option_d": "3",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q010",
+    "question": "ANSI X9.17 亂數產生器除了上一次運算的結果外，還需要哪個外部輸入參數？",
+    "option_a": "CPU 溫度",
+    "option_b": "日期/時間 (DTi)",
+    "option_c": "硬碟剩餘空間",
+    "option_d": "使用者 ID",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q011",
+    "question": "在 MD5 運作原理圖中，IV (初始向量) 是在哪一個階段輸入的？",
+    "option_a": "與最後一個區塊 P(L-1) 一起輸入",
+    "option_b": "與第一個區塊 P0 一起輸入給 H_MD5",
+    "option_c": "完全沒有使用到 IV",
+    "option_d": "在所有區塊計算完畢後才加入",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q012",
+    "question": "在 ANSI X9.17 亂數產生器的圖示中，『主鑰匙』被標示為？",
+    "option_a": "Vi",
+    "option_b": "Ri",
+    "option_c": "DTi",
+    "option_d": "K1 || K2",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q013",
+    "question": "根據雜湊函數的定義，其主要功能為何？",
+    "option_a": "將固定長度的訊息轉換為不定長度的密碼",
+    "option_b": "將訊息進行加密，以便之後可以解密還原",
+    "option_c": "確保訊息在傳輸過程中絕對不會被攔截",
+    "option_d": "將任意長度的訊息輸入，產生固定長度的雜湊值輸出",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q014",
+    "question": "在 MD5 演算法中，加入了基於哪一種數學函數所產生的非線性參數值，以增加其複雜性？",
+    "option_a": "cos(x)",
+    "option_b": "log(x)",
+    "option_c": "sin(x)",
+    "option_d": "tan(x)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q015",
+    "question": "雜湊函數的『碰撞』(Collision) 是指什麼情況？",
+    "option_a": "雜湊值無法被正確儲存",
+    "option_b": "兩個不同的輸入訊息產生了相同的雜湊值",
+    "option_c": "輸入的訊息長度超過系統限制",
+    "option_d": "雜湊運算過程中發生錯誤",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q016",
+    "question": "SHA-1 演算法的全名是什麼？",
+    "option_a": "Secure Hashing Algorithm 1",
+    "option_b": "System Hash Algorithm 1",
+    "option_c": "Standard Hash Algorithm 1",
+    "option_d": "Secure Hash Algorithm",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q017",
+    "question": "SHA-1 演算法的輸入與 MD5 相同，都是將訊息切割為多少位元的區塊？",
+    "option_a": "128 bits",
+    "option_b": "160 bits",
+    "option_c": "1024 bits",
+    "option_d": "512 bits",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q018",
+    "question": "在線性同餘法 Xn+1=(aXn+c) mod m 中，對於乘數 a 的條件限制為何？",
+    "option_a": "0 ≤ a < m",
+    "option_b": "a 必須是奇數",
+    "option_c": "a 必須等於 c",
+    "option_d": "a > m",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q019",
+    "question": "『單向雜湊』(One-way Hash) 特性指的是？",
+    "option_a": "只能使用一種硬體來實現",
+    "option_b": "雜湊值的長度只有原文的一半",
+    "option_c": "只能從明文計算出雜湊值，但無法從雜湊值輕易反推出明文",
+    "option_d": "只能處理一個方向的資料流",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q020",
+    "question": "DES 亂數產生器架構中，主鑰匙 (Km) 的作用是什麼？",
+    "option_a": "決定虛擬亂數的週期長度",
+    "option_b": "作為虛擬亂數產生的模數",
+    "option_c": "作為 DES 加密演算法的鑰匙，用來加密初始亂數",
+    "option_d": "與初始亂數進行 XOR 運算",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q021",
+    "question": "採用 DES 加密法產生亂數的最終輸出公式為何？",
+    "option_a": "Xn+1 = D_Km(Cn+1) (解密)",
+    "option_b": "Xn+1 = Cn+1 ⊕ Km",
+    "option_c": "Xn+1 = E_Km(Cn+1) (加密)",
+    "option_d": "Xn+1 = Cn+1 mod Km",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q022",
+    "question": "MD5 演算法初始化時，暫存器 A 的初始值為何？",
+    "option_a": "fe dc ba 98",
+    "option_b": "76 54 32 10",
+    "option_c": "89 ab cd ef",
+    "option_d": "01 23 45 67",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q023",
+    "question": "MD5 演算法中，總共會使用到查表 T[i] 幾個不同的參數值？",
+    "option_a": "80",
+    "option_b": "32",
+    "option_c": "16",
+    "option_d": "64",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q024",
+    "question": "MD5 演算法的第三回合運算中，使用了下列哪個函數？",
+    "option_a": "H(b,c,d)",
+    "option_b": "I(b,c,d)",
+    "option_c": "F(b,c,d)",
+    "option_d": "G(b,c,d)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q025",
+    "question": "MD5 演算法總共包含幾個步驟(回合)，且每個步驟(回合)各計算幾次？",
+    "option_a": "4個步驟，每步驟20次",
+    "option_b": "5個步驟，每步驟16次",
+    "option_c": "4個步驟，每步驟16次",
+    "option_d": "16個步驟，每步驟4次",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q026",
+    "question": "在線性同餘法 Xn+1=(aXn+c) mod m 中，參數 'm' 代表什麼？",
+    "option_a": "模數 (Modulos)",
+    "option_b": "增量 (Increment)",
+    "option_c": "起始值 (Seed)",
+    "option_d": "乘數 (Multiplier)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q027",
+    "question": "下列何者不是「雜湊函數」(Hash Function) 的別稱？",
+    "option_a": "單向雜湊 (One-way Hash)",
+    "option_b": "訊息摘要 (Message Digest)",
+    "option_c": "對稱金鑰 (Symmetric Key)",
+    "option_d": "數位指紋 (Digital Fingerprint)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q028",
+    "question": "SHA-1 演算法的訊息擴充步驟中，符號 S¹ 代表什麼意思？",
+    "option_a": "平方運算",
+    "option_b": "向左迴旋一個位元",
+    "option_c": "互斥或 (XOR) 運算",
+    "option_d": "向右位移一個位元",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q029",
+    "question": "SHA-1 演算法中，第二回合 (t=20..39) 使用的函數是？",
+    "option_a": "f2",
+    "option_b": "f1",
+    "option_c": "f4",
+    "option_d": "f3",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q030",
+    "question": "根據線性同餘法範例，使用 m=13, a=2, c=1, X0=1，產生的數列為何？",
+    "option_a": "1, 3, 5, 7, 9, 11, 13...",
+    "option_b": "2, 4, 6, 8, 10, 12, 1...",
+    "option_c": "1, 3, 7, 2, 5, 11, 10...",
+    "option_d": "1, 2, 3, 4, 5, 6, 7...",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q031",
+    "question": "虛擬亂數 (Pseudo-random Number) 應該具備哪兩種特性？",
+    "option_a": "加密性與可逆性",
+    "option_b": "隨機性與不可預測性",
+    "option_c": "簡單性與重複性",
+    "option_d": "可預測性與順序性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q032",
+    "question": "在 MD5 演算法中，第四回合中使用的函數 I(b,c,d) 的定義為何？",
+    "option_a": "c ⊕ (b ∨ ¬d)",
+    "option_b": "(b ∨ ¬d) ⊕ c",
+    "option_c": "(b ∧ d) ∨ (c ∧ ¬d)",
+    "option_d": "b ⊕ c ⊕ d",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q033",
+    "question": "ANSI X9.17 標準的亂數產生器，其輸出的亂數長度為多少位元？",
+    "option_a": "112 bits",
+    "option_b": "64 bits",
+    "option_c": "128 bits",
+    "option_d": "32 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q034",
+    "question": "SHA-1 演算法總共攪拌幾回合(步驟)，合計多少次運算？",
+    "option_a": "3回合，合計60次",
+    "option_b": "5回合，合計80次",
+    "option_c": "4回合，合計64次",
+    "option_d": "4回合，合計80次",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q035",
+    "question": "亂數(Random Number)的應用之一？",
+    "option_a": "產生固定的使用者密碼",
+    "option_b": "儲存使用者的個人資料",
+    "option_c": "設計網頁的版面",
+    "option_d": "作為演算法參數",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q036",
+    "question": "MD5 系列演算法中的 MD4 是針對幾位元的單晶片所設計？",
+    "option_a": "64位元",
+    "option_b": "8位元",
+    "option_c": "32位元",
+    "option_d": "16位元",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q037",
+    "question": "SHA-1 演算法中，總共有多少個 W[t] 參數 (訊息擴充後的區段)？",
+    "option_a": "80 個 (W[0]~W[79])",
+    "option_b": "16 個 (W[0]~W[15])",
+    "option_c": "128 個 (W[0]~W[127])",
+    "option_d": "64 個 (W[0]~W[63])",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q038",
+    "question": "在「線性同餘法」亂數產生器中，其數學公式為何？",
+    "option_a": "Xn+1 = (aXn + c) mod m",
+    "option_b": "Xn+1 = (Xn / a + c) mod m",
+    "option_c": "Xn+1 = (a + Xn * c) mod m",
+    "option_d": "Xn+1 = (a - cXn) mod m",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q039",
+    "question": "破解雜湊函數的基本原理是？",
+    "option_a": "讓雜湊函數的運算速度變慢",
+    "option_b": "偽造一個新訊息，使其雜湊值與原始訊息的雜湊值相同",
+    "option_c": "猜測雜湊函數使用的加密金鑰",
+    "option_d": "刪除原始訊息的雜湊值",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q040",
+    "question": "SHA-1 演算法的訊息擴充功能中，W[16]是如何計算得出的？",
+    "option_a": "S¹(W[15] ⊕ W[14] ⊕ W[13] ⊕ W[12])",
+    "option_b": "W[0] + W[2] + W[8] + W[13]",
+    "option_c": "S¹(W[0] ⊕ W[1] ⊕ W[2] ⊕ W[3])",
+    "option_d": "S¹(W[0] ⊕ W[2] ⊕ W[8] ⊕ W[13])",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q041",
+    "question": "在 MD5 演算法中，暫存器 B, C, D 的值會被非線性函數處理，在第一回合中，這個函數 F 是什麼？",
+    "option_a": "db + c",
+    "option_b": "c ⊕ (b + d)",
+    "option_c": "b ⊕ c ⊕ d",
+    "option_d": "bc + d",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q042",
+    "question": "SHA-1 演算法初始化時，暫存器 A 的初始值為何？",
+    "option_a": "67 45 23 01",
+    "option_b": "10 32 54 76",
+    "option_c": "EF CD AB 89",
+    "option_d": "98 BA DC FE",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q043",
+    "question": "ANSI X9.17 標準的亂數產生器是採用哪一種加密演算法？",
+    "option_a": "3DES",
+    "option_b": "MD5",
+    "option_c": "DES",
+    "option_d": "AES",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q044",
+    "question": "SHA-1 演算法中，攪拌運算的核心公式 A=E+f(B,C,D)+S⁵(A)+W[t]+K，其中 S⁵(A) 代表什麼意思？",
+    "option_a": "將暫存器 A 的內容向右位移 5 個位元",
+    "option_b": "A 的 5 次方",
+    "option_c": "將 A 的值加上 5",
+    "option_d": "將暫存器 A 的內容向左迴旋 5 個位元",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q045",
+    "question": "採用 DES 加密法來產生亂數時，其初始亂數是透過什麼方式產生的？",
+    "option_a": "全週期虛擬亂數",
+    "option_b": "硬體溫度感測器",
+    "option_c": "目前的系統時間",
+    "option_d": "使用者的鍵盤輸入",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q046",
+    "question": "生日攻擊法 (Birthday Attack) 的目的是什麼？",
+    "option_a": "在特定日期癱瘓系統",
+    "option_b": "產生大量變形文件以找出一個與原文件具有相同雜湊值的偽造文件",
+    "option_c": "找出雜湊函數演算法的漏洞",
+    "option_d": "竊取簽署者的私密金鑰",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q047",
+    "question": "給定線性同餘法參數 m=13, a=2, c=1, 且已知 X2=7，請問 X3 的值是多少？",
+    "option_a": "1",
+    "option_b": "10",
+    "option_c": "2",
+    "option_d": "5",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q048",
+    "question": "在 ANSI X9.17 亂數產生器中，『下次的初始值』Vi+1 是如何計算的？",
+    "option_a": "3DES(Ri ⊕ DTi)",
+    "option_b": "Ri ⊕ DTi",
+    "option_c": "3DES(Ri ⊕ 3DES(DTi))",
+    "option_d": "3DES(Vi ⊕ DTi)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q049",
+    "question": "在線性同餘法中，起始值 X0 也被稱為什麼？",
+    "option_a": "週期 (Period)",
+    "option_b": "種子 (Seed)",
+    "option_c": "向量 (Vector)",
+    "option_d": "鑰匙 (Key)",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q050",
+    "question": "在破解雜湊函數的攻擊法中，何者是採用「一個區塊接一個區塊偽造」的方式進行？",
+    "option_a": "暴力破解法",
+    "option_b": "中途相遇攻擊法",
+    "option_c": "生日攻擊法",
+    "option_d": "字典攻擊法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q051",
+    "question": "一個被稱為「強雜湊函數」(Strong Hash Function)的條件，除了滿足弱雜湊函數的特性外，還需要滿足哪一項？",
+    "option_a": "必須是可逆的，能從雜湊值反推出原文",
+    "option_b": "運算速度必須非常快",
+    "option_c": "產生的雜湊值長度必須超過512位元",
+    "option_d": "若 H(M1) = H(M2)，則 M1 = M2",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q052",
+    "question": "MD5 演算法產生的雜湊值長度為多少位元？",
+    "option_a": "128 bits",
+    "option_b": "160 bits",
+    "option_c": "512 bits",
+    "option_d": "64 bits",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q053",
+    "question": "SHA-1 演算法使用幾個 32 位元的暫存器來進行運算？",
+    "option_a": "4個",
+    "option_b": "6個",
+    "option_c": "5個",
+    "option_d": "8個",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q054",
+    "question": "SHA-1 演算法的標準是定義在哪一份 FIPS PUB 文件中？",
+    "option_a": "RFC 1321",
+    "option_b": "ANSI X9.17",
+    "option_c": "FIPS PUB 180 與 FIPS PUB 180-1",
+    "option_d": "RFC 1319",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q055",
+    "question": "在 MD5 演算法中，第四回合的運算公式使用了下列哪個函數？",
+    "option_a": "F(b,c,d)",
+    "option_b": "G(b,c,d)",
+    "option_c": "H(b,c,d)",
+    "option_d": "I(b,c,d)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q056",
+    "question": "ANSI X9.17 標準所使用的主鑰匙長度為多少位元？",
+    "option_a": "56 bits",
+    "option_b": "64 bits",
+    "option_c": "112 bits",
+    "option_d": "168 bits",
+    "answer": "C"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q057",
+    "question": "SHA-1 初始化暫存器 E 的值是多少？",
+    "option_a": "C3 D2 E1 F0",
+    "option_b": "EF CD AB 89",
+    "option_c": "67 45 23 01",
+    "option_d": "98 BA DC FE",
+    "answer": "A"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q058",
+    "question": "MD5 是由哪一位學者所設計的一系列雜湊演算法？",
+    "option_a": "Linus Torvalds",
+    "option_b": "Ron Rivest",
+    "option_c": "Alan Turing",
+    "option_d": "Bill Gates",
+    "answer": "B"
+  },
+  {
+    "chapter": "第四章 雜湊與亂數演算法",
+    "question_id": "CH08_Q059",
+    "question": "亂數的應用中，「產生通訊鑰匙」指的是什麼情境？",
+    "option_a": "產生伺服器機房的實體鑰匙",
+    "option_b": "產生使用者登入網站的固定密碼",
+    "option_c": "產生一次性的對稱式或非對稱式加密金鑰",
+    "option_d": "產生軟體授權碼",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q001",
+    "question": "使用 rsautl 命令驗證簽章時，若使用了 -pubin 參數，則 -inkey 參數應指向哪個檔案？",
+    "option_a": "包含簽章的檔案，如 sign.txt",
+    "option_b": "包含私鑰的檔案，如 rsaprivate.pem",
+    "option_c": "包含原文的檔案，如 data.txt",
+    "option_d": "包含公鑰的檔案，如 rsapublic.pem",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q002",
+    "question": "要使用 RSA 演算法產生一個鑰匙檔案，應使用哪個 OpenSSL 命令？",
+    "option_a": "genrsa",
+    "option_b": "dgst",
+    "option_c": "rsautl",
+    "option_d": "rsa",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q003",
+    "question": "根據文件，aes-128-cbc、des 和 rc4 都是 OpenSSL 中的什麼？",
+    "option_a": "金鑰交換協定",
+    "option_b": "對稱加密演算法 (Cipher commands)",
+    "option_c": "非對稱加密演算法",
+    "option_d": "訊息摘要演算法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q004",
+    "question": "成功執行 openssl rsautl -verify 命令並將輸出導向 plain.txt 後，cat plain.txt 顯示的內容是什麼？",
+    "option_a": "公鑰內容",
+    "option_b": "原始的明文內容",
+    "option_c": "加密後的密文",
+    "option_d": "簽章的十六進位值",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q005",
+    "question": "在 RSA 簽署文件範例中，執行簽署命令後，數位簽章被存放在哪個檔案中？",
+    "option_a": "plain.txt",
+    "option_b": "rsaprivate.pem",
+    "option_c": "sign.txt",
+    "option_d": "data.txt",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q006",
+    "question": "在 OpenSSL 中，若要計算檔案的訊息摘要 (Message Digest)，應使用哪個命令？",
+    "option_a": "sign",
+    "option_b": "verify",
+    "option_c": "dgst",
+    "option_d": "enc",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q007",
+    "question": "在 genrsa 命令的輸出中，e is 65537 (0x10001) 這行訊息代表什麼？",
+    "option_a": "RSA 的公鑰指數 (public exponent)",
+    "option_b": "金鑰長度",
+    "option_c": "產生的亂數種子",
+    "option_d": "RSA 的私鑰指數",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q008",
+    "question": "在 openssl genrsa -out rsaprivate.pem -passout pass:12345 命令中，-passout pass:12345 的作用是什麼？",
+    "option_a": "從檔案讀取密碼",
+    "option_b": "設定輸出檔案的密碼為 12345",
+    "option_c": "驗證輸入的密碼",
+    "option_d": "設定輸入檔案的密碼",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q009",
+    "question": "在訊息摘要操作範例中，MD2(data.txt)= 358f9627407024c72c0512da058e4472 這串輸出代表什麼？",
+    "option_a": "data.txt 的私鑰",
+    "option_b": "對 data.txt 加密的結果",
+    "option_c": "data.txt 的 MD2 訊息摘要值",
+    "option_d": "對 data.txt 簽章的結果",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q010",
+    "question": "在 OpenSSL 中，哪個命令被用來執行 RSA 的加密、解密、簽署與驗證運算？",
+    "option_a": "rsautl",
+    "option_b": "enc",
+    "option_c": "genrsa",
+    "option_d": "dgst",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q011",
+    "question": "使用 openssl rsautl 命令對文件進行簽署 (sign) 時，需要使用哪種金鑰？",
+    "option_a": "公鑰 (public key)",
+    "option_b": "臨時金鑰 (session key)",
+    "option_c": "私鑰 (private key)",
+    "option_d": "對稱金鑰 (symmetric key)",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q012",
+    "question": "下列何者不是 OpenSSL 所包含的函式庫或公用程式？",
+    "option_a": "密碼庫存函數庫",
+    "option_b": "SSL 庫存函數庫",
+    "option_c": "OpenSSL 公用程式",
+    "option_d": "網路驅動程式 (network driver package)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q013",
+    "question": "命令 openssl dgst -md2 data.txt 的作用是什麼？",
+    "option_a": "使用 md2 解密 data.txt",
+    "option_b": "驗證 data.txt 的 MD2 簽章",
+    "option_c": "使用 md2 加密 data.txt",
+    "option_d": "計算 data.txt 檔案的 MD2 訊息摘要",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q014",
+    "question": "openssl enc -ciphername [-in filename] 命令格式中，[-in filename] 的作用是？",
+    "option_a": "指定包含密碼的檔案",
+    "option_b": "指定操作完成後要輸出的檔名",
+    "option_c": "指定要進行加密或解密的輸入檔名",
+    "option_d": "指定對稱加密演算法的名稱",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q015",
+    "question": "openssl rsa 命令的主要用途是什麼？",
+    "option_a": "計算訊息摘要",
+    "option_b": "處理 RSA 鑰匙的格式轉換",
+    "option_c": "產生 RSA 鑰匙檔案",
+    "option_d": "使用 RSA 進行簽署與驗證",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q016",
+    "question": "在 openssl rsautl -verify -pubin -inkey rsapublic.pem 命令中，-pubin 參數的意義是什麼？",
+    "option_a": "輸入的金鑰是公鑰",
+    "option_b": "輸入的是私鑰",
+    "option_c": "從憑證中讀取金鑰",
+    "option_d": "輸入的金鑰是 PEM 格式",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q017",
+    "question": "在多個操作範例中，如訊息摘要和 RSA 簽署，data.txt 通常被用來作為什麼？",
+    "option_a": "包含原始明文內容的輸入檔",
+    "option_b": "設定檔",
+    "option_c": "輸出簽章的檔案",
+    "option_d": "金鑰檔案",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q018",
+    "question": "在 OpenSSL 中，哪個命令主要用於對稱密碼系統的操作？",
+    "option_a": "rsautl",
+    "option_b": "genrsa",
+    "option_c": "dgst",
+    "option_d": "enc",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q019",
+    "question": "在 openssl genrsa -des 1024 命令中，數字 1024 代表什麼？",
+    "option_a": "輸出的檔案名稱",
+    "option_b": "金鑰的位元長度 (bit long modulus)",
+    "option_c": "加密演算法的版本",
+    "option_d": "密碼長度",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q020",
+    "question": "執行命令 openssl rc4 -in data.txt -out cipher.txt 的目的是什麼？",
+    "option_a": "驗證 data.txt 的簽章",
+    "option_b": "解密 data.txt 並將結果存於 cipher.txt",
+    "option_c": "產生一個名為 rc4 的金鑰",
+    "option_d": "使用 rc4 演算法加密 data.txt，並將密文存於 cipher.txt",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q021",
+    "question": "OpenSSL 的 enc 命令集合是用於哪一類型的密碼學操作？",
+    "option_a": "金鑰產生",
+    "option_b": "非對稱密碼系統",
+    "option_c": "訊息摘要",
+    "option_d": "對稱密碼系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q022",
+    "question": "執行 openssl rsautl -sign -inkey rsaprivate.pem -in data.txt -out sign.txt 命令會產生什麼結果？",
+    "option_a": "對 data.txt 進行數位簽署，並將簽章存於 sign.txt",
+    "option_b": "加密 data.txt 檔案",
+    "option_c": "驗證 sign.txt 的簽章",
+    "option_d": "解密 data.txt 檔案",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q023",
+    "question": "在 OpenSSL，根據 rsautl 的命令格式說明，下列哪個參數可用來執行解密操作？",
+    "option_a": "-decrypt",
+    "option_b": "-sign",
+    "option_c": "-verify",
+    "option_d": "-encrypt",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q024",
+    "question": "下列何者是文件中所列出的訊息摘要演算法？",
+    "option_a": "AES",
+    "option_b": "RSA",
+    "option_c": "md5",
+    "option_d": "DES",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q025",
+    "question": "OpenSSL 的官方網站為何？",
+    "option_a": "http://openssl.io",
+    "option_b": "http://openssl.net",
+    "option_c": "http://www.openssl.org",
+    "option_d": "http://openssl.com",
+    "answer": "C"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q026",
+    "question": "根據文件，OpenSSL 是一個什麼性質的專案？",
+    "option_a": "政府專用專案",
+    "option_b": "開源專案 (Open source project)",
+    "option_c": "閉源商業專案",
+    "option_d": "學術研究專案",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q027",
+    "question": "在對稱密碼操作範例中，openssl rc4 -d -in cipher.txt -out plain.txt 這個命令正在執行什麼操作？",
+    "option_a": "解密處理",
+    "option_b": "簽章驗證",
+    "option_c": "金鑰產生",
+    "option_d": "加密處理",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q028",
+    "question": "在 openssl enc 命令中，-d 參數的作用是什麼？",
+    "option_a": "指定輸出檔案",
+    "option_b": "執行解密",
+    "option_c": "執行加密",
+    "option_d": "顯示除錯訊息",
+    "answer": "B"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q029",
+    "question": "當使用 openssl rc4 進行加密時，根據範例，程式會提示使用者輸入什麼？",
+    "option_a": "加密的密碼/鑰匙 (encryption password)",
+    "option_b": "輸出檔案名稱",
+    "option_c": "輸入檔案名稱",
+    "option_d": "加密演算法",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q030",
+    "question": "在 OpenSSL 使用 rsautl 命令時，哪個參數用來指定要進行簽署或驗證的輸入檔案？",
+    "option_a": "-in",
+    "option_b": "-inkey",
+    "option_c": "-out",
+    "option_d": "-pubin",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q031",
+    "question": "在 openssl enc 命令中，-out 參數的用途是什麼？",
+    "option_a": "指定輸出檔案",
+    "option_b": "指定輸入檔案",
+    "option_c": "指定加密演算法",
+    "option_d": "指定金鑰",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q032",
+    "question": "下列何者是文件中提到的 OpenSSL 支援的對稱加密演算法？",
+    "option_a": "aes-256-cbc",
+    "option_b": "RSA",
+    "option_c": "MD5",
+    "option_d": "SHA-1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q033",
+    "question": "根據文件，OpenSSL 是一個什麼樣的工具包？",
+    "option_a": "密碼學與 SSL/TLS 工具包 (Cryptography and SSL/TLS Toolkit)",
+    "option_b": "資料庫管理系統",
+    "option_c": "網路流量分析器",
+    "option_d": "防火牆與入侵偵測系統",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q034",
+    "question": "根據 RSA 管理命令的範例，openssl rsa -in rsaprivate.pem -text 的作用是什麼？",
+    "option_a": "以純文字格式顯示 RSA 私鑰的內容",
+    "option_b": "將私鑰轉換為公鑰",
+    "option_c": "產生新的 RSA 私鑰",
+    "option_d": "刪除 RSA 私鑰",
+    "answer": "A"
+  },
+  {
+    "chapter": "第五章 密碼系統的實習環境",
+    "question_id": "CH09_Q035",
+    "question": "genrsa、rsa 與 rsautl 這三個命令都屬於哪種鑰匙系統的操作？",
+    "option_a": "RSA 鑰匙系統",
+    "option_b": "DES 鑰匙系統",
+    "option_c": "MD5 鑰匙系統",
+    "option_d": "AES 鑰匙系統",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q001",
+    "question": "什麼是 HMAC？",
+    "option_a": "一種網路協定",
+    "option_b": "一種基於雜湊函數的訊息確認碼",
+    "option_c": "一種新的加密演算法",
+    "option_d": "一種硬體安全模組",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q002",
+    "question": "在「密文計算 MAC 後傳送」模式中，MAC 保護了什麼？",
+    "option_a": "同時保護了明文和密文",
+    "option_b": "保護了明文 M 的完整性",
+    "option_c": "只提供了身份鑑別，沒有完整性",
+    "option_d": "保護了密文 C 的完整性",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q003",
+    "question": "HMAC 與單純的雜湊函數 (如 MD5) 最大的不同點在於 HMAC 加入了什麼？",
+    "option_a": "秘密鑰匙",
+    "option_b": "公開鑰匙",
+    "option_c": "加密步驟",
+    "option_d": "數位憑證",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q004",
+    "question": "若攻擊者攔截了訊息 M 和其 ICV，並將 M 竄改成 M，攻擊者能否產生對應的 ICV？**",
+    "option_a": "能，但需要大量計算時間",
+    "option_b": "不能，因為雜湊函數不可逆",
+    "option_c": "能，因為雜湊函數是公開的",
+    "option_d": "不能，因為沒有金鑰",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q005",
+    "question": "若攻擊者攔截了訊息 M 和其 MAC，並將 M 竄改成 M，攻擊者能否產生對應的 MAC？**",
+    "option_a": "能，因為雜湊函數是公開的",
+    "option_b": "不能，因為攻擊者沒有秘密鑰匙 K",
+    "option_c": "不能，因為 MAC 演算法是保密的",
+    "option_d": "能，只要 M* 的長度不變",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q006",
+    "question": "HMAC 公式中的 || 符號代表什麼意思？",
+    "option_a": "AND 運算",
+    "option_b": "加法運算",
+    "option_c": "串接 (Concatenation)",
+    "option_d": "XOR 運算",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q007",
+    "question": "在 MAC-DES 演算法中，DES 的區塊長度和鑰匙長度分別是多少？",
+    "option_a": "128 bits, 128 bits",
+    "option_b": "128 bits, 64 bits",
+    "option_c": "64 bits, 64 bits",
+    "option_d": "64 bits, 56 bits",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q008",
+    "question": "在「明文與 MAC 加密後傳送」模式中，為何通常建議使用兩把不同的金鑰 (K1, K2)？",
+    "option_a": "K1 是公開金鑰，K2 是私密金鑰",
+    "option_b": "K1 用於傳送端，K2 用於接收端",
+    "option_c": "一把用於加密，一把用於 MAC，避免金鑰關聯性攻擊",
+    "option_d": "K1 太短，需要 K2 輔助",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q009",
+    "question": "在 MAC-DES 演算法中，如果訊息 M 剛好是 64 bits，其 DAC 如何計算？",
+    "option_a": "直接將 M 作為 DAC",
+    "option_b": "MAC-DES 至少需要 128 bits",
+    "option_c": "將 M XOR K 後作為 DAC",
+    "option_d": "將 M 用 K 加密一次，取 MSB (可能截短) 作為 DAC",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q010",
+    "question": "什麼是 MAC (Message Authentication Code)？",
+    "option_a": "一種防火牆規則",
+    "option_b": "一種訊息加密標準",
+    "option_c": "用于確認訊息完整性與來源的代碼",
+    "option_d": "一種公開金鑰基礎設施",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q011",
+    "question": "MAC-DES 演算法的運作模式類似於 DES 的哪種加密模式？",
+    "option_a": "CBC (Cipher Block Chaining)",
+    "option_b": "CFB (Cipher Feedback)",
+    "option_c": "ECB (Electronic Codebook)",
+    "option_d": "OFB (Output Feedback)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q012",
+    "question": "MAC 主要提供哪兩項功能？",
+    "option_a": "壓縮與解壓縮",
+    "option_b": "金鑰交換與管理",
+    "option_c": "確認訊息來源與是否被竄改",
+    "option_d": "加密與解密",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q013",
+    "question": "HMAC 內部雜湊的輸入是什麼？",
+    "option_a": "(K+ XOR ipad) 與 M 的串接",
+    "option_b": "(K+ XOR opad) 與 M 的串接",
+    "option_c": "只有金鑰 K",
+    "option_d": "只有訊息 M",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q014",
+    "question": "MAC-DES 演算法是基於哪一個標準？",
+    "option_a": "ISO 9001",
+    "option_b": "IEEE 802.11",
+    "option_c": "FIPS PUB-113",
+    "option_d": "RFC 2104",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q015",
+    "question": "訊息確認 (MA) 是屬於哪一種類型的金鑰系統？",
+    "option_a": "無鑰匙系統",
+    "option_b": "秘密鑰匙系統",
+    "option_c": "混合系統",
+    "option_d": "公開鑰匙系統",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q016",
+    "question": "若要同時提供機密性、完整性與身份鑑別，應使用哪種 MAC 操作模式？",
+    "option_a": "明文與 MAC 加密後傳送",
+    "option_b": "密文與 MAC 傳送",
+    "option_c": "明文與 MAC 傳送",
+    "option_d": "密文計算 MAC 後傳送",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q017",
+    "question": "在「密文與 MAC 傳送」模式中，MAC 保護了什麼？",
+    "option_a": "只提供了身份鑑別，沒有完整性",
+    "option_b": "同時保護了明文和密文",
+    "option_c": "保護了明文 M 的完整性",
+    "option_d": "保護了密文 C 的完整性",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q018",
+    "question": "下列何者不是常用於計算 ICV 的雜湊演算法？",
+    "option_a": "SHA-1",
+    "option_b": "MD5",
+    "option_c": "MD4",
+    "option_d": "DES",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q019",
+    "question": "「完整性檢查」(Integrity Check) 通常使用哪種技術來實現？",
+    "option_a": "數位簽章",
+    "option_b": "雜湊函數",
+    "option_c": "非對稱加密",
+    "option_d": "對稱加密",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q020",
+    "question": "在 MAC-DES 演算法中，最終的 MAC (或稱為 DAC) 是如何產生的？",
+    "option_a": "取最後一個區塊的加密輸出並可能截短",
+    "option_b": "取第一個區塊的加密結果",
+    "option_c": "將所有訊息區塊 XOR 後加密",
+    "option_d": "將所有區塊的加密結果相加",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q021",
+    "question": "HMAC 演算法的一個主要特點是什麼？",
+    "option_a": "它可以嵌入多種雜湊演算法",
+    "option_b": "它不需要秘密鑰匙",
+    "option_c": "它比 MAC-DES 慢很多",
+    "option_d": "它只能使用 SHA-1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q022",
+    "question": "使用 ICV（僅雜湊）與使用 MAC（雜湊加金鑰）來確保完整性，主要差異為何？",
+    "option_a": "ICV 較長，MAC 較短",
+    "option_b": "ICV 任何人都能計算與驗證，MAC 只有持有金鑰者能計算與驗證",
+    "option_c": "ICV 較快，MAC 較慢",
+    "option_d": "ICV 只能用 MD5，MAC 只能用 DES",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q023",
+    "question": "根據 HMAC 設計概念，下列何者為非？",
+    "option_a": "必須修改現有的雜湊演算法才能嵌入",
+    "option_b": "能容易地更新內嵌的雜湊演算法",
+    "option_c": "期望維持雜湊演算法原來的執行速度",
+    "option_d": "可以簡單的使用鑰匙",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q024",
+    "question": "在「明文與 MAC 傳送」模式中，提供了哪種安全性？",
+    "option_a": "完整性與身份鑑別",
+    "option_b": "僅完整性",
+    "option_c": "僅機密性",
+    "option_d": "機密性、完整性與身份鑑別",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q025",
+    "question": "哪一種 MAC 操作模式 在傳輸過程中，訊息 M 本身是可被竊聽者讀取的？",
+    "option_a": "密文計算 MAC 後傳送",
+    "option_b": "明文與 MAC 加密後傳送",
+    "option_c": "密文與 MAC 傳送",
+    "option_d": "明文與 MAC 傳送",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q026",
+    "question": "HMAC 相較於如 H(K||M) 這樣的簡單結構，其安全性為何較高？",
+    "option_a": "因為它使用了 ipad 和 opad",
+    "option_b": "因為它使用了更長的金鑰",
+    "option_c": "因為它使用了兩次雜湊",
+    "option_d": "因為 H(K||M) 結構易受擴展攻擊 (extension attacks)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q027",
+    "question": "當使用「密文計算 ICV」時，ICV 檢查的是什麼的完整性？",
+    "option_a": "加密金鑰 K",
+    "option_b": "原始明文 M",
+    "option_c": "加密後的密文",
+    "option_d": "雜湊函數本身",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q028",
+    "question": "MAC-DES 演算法使用的區塊加密法是什麼？",
+    "option_a": "AES",
+    "option_b": "DES",
+    "option_c": "MD5",
+    "option_d": "SHA-1",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q029",
+    "question": "為何「密文計算 MAC 後傳送」通常優於「密文與 MAC 傳送」？",
+    "option_a": "因為它更快",
+    "option_b": "因為它能驗證密文未被竄改，防止對解密演算法的攻擊",
+    "option_c": "因為它能驗證明文 M 的完整性",
+    "option_d": "因為它不需要 K2",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q030",
+    "question": "在 ICV 運作圖中，接收端如何驗證訊息完整性？",
+    "option_a": "將收到的 ICV 解密並比較",
+    "option_b": "將收到的 M 加密並比較",
+    "option_c": "檢查 M 是否包含特定標記",
+    "option_d": "重新計算 M 的 ICV' 並與收到的 ICV 比較",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q031",
+    "question": "HMAC 設計概念中提到「希望能容易地更新內嵌的雜湊演算法」的主要考量是什麼？",
+    "option_a": "為了因應未來可能發現更快或更安全的雜湊演算法",
+    "option_b": "為了相容舊的硬體",
+    "option_c": "為了配合不同的金鑰長度",
+    "option_d": "為了讓 MAC 更短",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q032",
+    "question": "「訊息確認」(Message Authentication) 主要在解決哪兩個問題？",
+    "option_a": "完整性與不可否認性",
+    "option_b": "完整性與身份鑑別",
+    "option_c": "身份鑑別與可用性",
+    "option_d": "機密性與可用性",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q033",
+    "question": "在 HMAC 的架構中，K+ 代表什麼？",
+    "option_a": "金鑰 K 以 0 補滿至 b bits (區塊大小)",
+    "option_b": "金鑰 K 的公開金鑰部分",
+    "option_c": "金鑰 K 加上一個常數",
+    "option_d": "金鑰 K 進行一次雜湊運算",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q034",
+    "question": "HMAC 的安全性中提到的「生日攻擊法」是針對什麼？",
+    "option_a": "找出雜湊函數的碰撞訊息",
+    "option_b": "猜測 ipad 和 opad 的值",
+    "option_c": "攻擊秘密鑰匙",
+    "option_d": "攻擊 XOR 運算",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q035",
+    "question": "HMAC 的安全性是基於其嵌入的雜湊演算法以及什麼？",
+    "option_a": "訊息的長度",
+    "option_b": "金鑰的長度與保密性",
+    "option_c": "憑證機構的可信度",
+    "option_d": "公開金鑰的強度",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q036",
+    "question": "在 MAC 運作程序中，接收端如何驗證 MAC？",
+    "option_a": "檢查 MAC 是否在有效期",
+    "option_b": "用公開金鑰解密 MAC",
+    "option_c": "用自己的秘密鑰匙 K 對訊息 M' 重新計算 H'，並與得到的 MAC 比較",
+    "option_d": "直接比較收到的 M 與 M'",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q037",
+    "question": "什麼是 ICV (Integrity Check Value)？",
+    "option_a": "一種加密金鑰",
+    "option_b": "利用雜湊演算法計算出的檢查值",
+    "option_c": "一種加密演算法",
+    "option_d": "一種訊息傳輸協定",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q038",
+    "question": "在 HMAC 架構圖中，ipad 和 opad 分別與什麼進行 XOR 運算？",
+    "option_a": "都與金鑰 K+",
+    "option_b": "都與訊息 M",
+    "option_c": "ipad 與 K+，opad 與 M",
+    "option_d": "ipad 與 M，opad 與 K+",
+    "answer": "A"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q039",
+    "question": "HMAC 外部雜湊的輸入是什麼？",
+    "option_a": "只有內部雜湊的結果",
+    "option_b": "(K+ XOR opad) 與內部雜湊結果的串接",
+    "option_c": "只有訊息 M",
+    "option_d": "(K+ XOR opad) 與 M 的串接",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q040",
+    "question": "HMAC 的公式包含幾次雜湊運算？",
+    "option_a": "1 次",
+    "option_b": "不一定，視訊息 M 長度而定",
+    "option_c": "2 次",
+    "option_d": "3 次",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q041",
+    "question": "MAC-DES 和 HMAC 都是 MAC 演算法，它們的主要基礎分別是什麼？",
+    "option_a": "兩者都只基於 DES",
+    "option_b": "HMAC 基於區塊加密 (DES)，MAC-DES 基於雜湊函數",
+    "option_c": "HMAC 基於 AES，MAC-DES 基於 SHA-1",
+    "option_d": "HMAC 基於雜湊函數 (如 MD5/SHA-1)，MAC-DES 基於區塊加密 (DES)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q042",
+    "question": "HMAC 是哪一個 RFC 標準？",
+    "option_a": "RFC 791",
+    "option_b": "RFC 2104",
+    "option_c": "FIPS PUB-113",
+    "option_d": "RFC 1918",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q043",
+    "question": "根據文件，MAC-DES 演算法中的 DAC，其長度範圍是多少？",
+    "option_a": "8 到 32 bits",
+    "option_b": "固定 64 bits",
+    "option_c": "16 到 64 bits",
+    "option_d": "固定 56 bits",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q044",
+    "question": "在 HMAC 架構中，ipad 是如何定義的？",
+    "option_a": "一個隨機產生的亂數",
+    "option_b": "將 00110110 重複 b/8 次",
+    "option_c": "將 01011100 重複 b/8 次",
+    "option_d": "金鑰 K 的一部分",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q045",
+    "question": "在 HMAC 架構中，opad 是如何定義的？",
+    "option_a": "金鑰 K 的另一部分",
+    "option_b": "將 00110110 重複 b/8 次",
+    "option_c": "將 01011100 重複 b/8 次",
+    "option_d": "一個隨機產生的亂數",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q046",
+    "question": "在「密文計算 MAC 後傳送」模式中，接收端應先執行哪個步驟？",
+    "option_a": "先計算明文 M",
+    "option_b": "先驗證 MAC，若相符再解密密文 C",
+    "option_c": "同時解密和驗證 MAC",
+    "option_d": "先解密密文 C 得到 M，再計算 MAC'",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q047",
+    "question": "在 Alice 與 Bob 的通訊情境中，Bob 收到訊息時，他主要的疑慮是什麼？",
+    "option_a": "訊息是否加密",
+    "option_b": "訊息是否使用了正確的通訊協定",
+    "option_c": "訊息是否太長",
+    "option_d": "訊息是否來自 Alice 且內容是否真實",
+    "answer": "D"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q048",
+    "question": "MAC 系統與 ICV 系統最關鍵的區別在於 MAC 使用了什麼？",
+    "option_a": "公開金鑰",
+    "option_b": "雙方共享的秘密鑰匙",
+    "option_c": "更快的雜湊演算法",
+    "option_d": "更長的檢查碼",
+    "answer": "B"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q049",
+    "question": "HMAC 的安全性中提到的「暴力攻擊法」是針對什麼？",
+    "option_a": "破解 DES 加密",
+    "option_b": "竄改訊息 M",
+    "option_c": "搜尋出所植入的秘密鑰匙",
+    "option_d": "找出雜湊函數的碰撞",
+    "answer": "C"
+  },
+  {
+    "chapter": "第六章 訊息確認",
+    "question_id": "CH10_Q050",
+    "question": "文件中提到了兩種計算 ICV 的方式，它們的主要區別在於？",
+    "option_a": "ICV 是從明文計算還是從密文計算",
+    "option_b": "ICV 的長度不同",
+    "option_c": "使用的雜湊函數不同",
+    "option_d": "使用的金鑰不同",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q001",
+    "question": "X.509 憑證中，「發行者 (Issuer)」欄位指的是誰？",
+    "option_a": "憑證伺服器",
+    "option_b": "憑證持有人",
+    "option_c": "驗證憑證者",
+    "option_d": "發行憑證的 CA",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q002",
+    "question": "DSA 演算法的簽章演算法是採用什麼演算法？",
+    "option_a": "雜湊演算法",
+    "option_b": "加密演算法",
+    "option_c": "非對稱演算法",
+    "option_d": "並非採用加密演算法",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q003",
+    "question": "在智慧卡運作中，當文件被送入 IC 卡後，使用者輸入通行碼 (PIN) 的目的是什麼？",
+    "option_a": "讀取數位憑證",
+    "option_b": "解密文件",
+    "option_c": "加密文件",
+    "option_d": "授權 IC 卡使用內部的私有鑰匙",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q004",
+    "question": "智慧卡 (Smart Card) 之所以安全，是因為它具備運算能力，並確保什麼不離開卡片？",
+    "option_a": "通行碼",
+    "option_b": "公開鑰匙",
+    "option_c": "數位憑證",
+    "option_d": "私有鑰匙",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q005",
+    "question": "在 X.509 V3 憑證格式中，「有效期限」欄位的作用是什麼？",
+    "option_a": "記錄憑證的有效期間",
+    "option_b": "記錄私鑰的有效期間",
+    "option_c": "記錄 CA 的有效期限",
+    "option_d": "記錄演算法的有效期間",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q006",
+    "question": "針對 RSA 的「暴力攻擊法」，解決策略是什麼？",
+    "option_a": "使用不同的雜湊演算法",
+    "option_b": "使用不同的 e",
+    "option_c": "雜湊碼越長越安全",
+    "option_d": "鑰匙長度越長越安全",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q007",
+    "question": "智慧卡 (Smart Card) 嵌入了哪兩種類型的加密系統？",
+    "option_a": "對稱 (DES/AES) 與非對稱 (RSA) 加密",
+    "option_b": "雜湊演算法 (SHA-1)",
+    "option_c": "僅對稱加密 (DES/AES)",
+    "option_d": "僅非對稱加密 (RSA)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q008",
+    "question": "DSS 演算法 (DSA) 的簽章 (r, s)，其中 s 是如何計算的？",
+    "option_a": "$s = [k(H(M) + xr)] \\pmod q$",
+    "option_b": "$s = [k^{-1}(H(M) + xr)] \\pmod q$",
+    "option_c": "$s = [k^{-1}(H(M) - xr)] \\pmod q$",
+    "option_d": "$s = [k(H(M) - xr)] \\pmod q$",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q009",
+    "question": "在智慧卡運作中，「通行碼」的主要用途是什麼？",
+    "option_a": "啟動(授權)私有鑰匙的使用",
+    "option_b": "作為私有鑰匙",
+    "option_c": "啟動數位憑證的讀取",
+    "option_d": "加密文件",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q010",
+    "question": "根據文件「智慧卡的運作」，從智慧卡取出數位憑證的限制是什麼？",
+    "option_a": "必須有私有鑰匙",
+    "option_b": "沒有限制",
+    "option_c": "私有鑰匙不可離開 IC 卡",
+    "option_d": "必須輸入通行碼",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q011",
+    "question": "根據智慧卡私有鑰匙使用步驟，第一步 (1) 是什麼？",
+    "option_a": "輸入通行碼",
+    "option_b": "送出密文",
+    "option_c": "執行簽署或加密",
+    "option_d": "文件送入IC卡",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q012",
+    "question": "驗證 X.509 憑證的「數位簽章」時，需要使用誰的什麼鑰匙？",
+    "option_a": "持有人的公鑰",
+    "option_b": "CA 的公鑰",
+    "option_c": "持有人的私鑰",
+    "option_d": "CA 的私鑰",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q013",
+    "question": "在 DSA 演算法中，簽署時會使用一個隨機亂數 k，其範圍為何？",
+    "option_a": "0 < k < q",
+    "option_b": "0 < k < p",
+    "option_c": "k > q",
+    "option_d": "0 < k < n",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q014",
+    "question": "數位憑證的國際標準格式是哪一個？",
+    "option_a": "SSL V3",
+    "option_b": "TLS 1.2",
+    "option_c": "X.500",
+    "option_d": "X.509 V3",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q015",
+    "question": "智慧卡 (Smart Card) 嵌入的對稱加密系統可能是下列何者？",
+    "option_a": "DSA",
+    "option_b": "DES 或 AES",
+    "option_c": "MD5",
+    "option_d": "RSA",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q016",
+    "question": "在 RSA 密碼演算法中，d 的計算公式為何？",
+    "option_a": "$e \\cdot d \\equiv 1 \\pmod{\\phi(n)}$",
+    "option_b": "$e \\cdot d \\equiv 1 \\pmod n$",
+    "option_c": "$e + d = \\phi(n)$",
+    "option_d": "$e \\cdot d = \\phi(n)$",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q017",
+    "question": "RSA 數位簽章可嵌入下列哪種雜湊演算法？",
+    "option_a": "SHA-1",
+    "option_b": "RC4",
+    "option_c": "DES",
+    "option_d": "AES",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q018",
+    "question": "在 RSA 演算法中，公開鑰匙 KU 是由哪兩個數組成的？",
+    "option_a": "{e, n}",
+    "option_b": "{d, p}",
+    "option_c": "{p, q}",
+    "option_d": "{d, n}",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q019",
+    "question": "RSA 演算法中的 p 和 q 是什麼？",
+    "option_a": "兩個模數",
+    "option_b": "兩個私鑰",
+    "option_c": "兩個公鑰",
+    "option_d": "兩個大質數",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q020",
+    "question": "DSA 演算法的簽章 (r, s) 是由哪兩個值組成的？",
+    "option_a": "{s, r}",
+    "option_b": "{k, x}",
+    "option_c": "{p, q}",
+    "option_d": "{e, n}",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q021",
+    "question": "智慧卡 (Smart Card) 除了加密系統外，還具備下列何種功能？",
+    "option_a": "產生亂數",
+    "option_b": "產生雜湊值",
+    "option_c": "產生公鑰",
+    "option_d": "產生憑證",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q022",
+    "question": "RSA 數位簽章中，用來對抗「暴力攻擊法」的策略是什麼？",
+    "option_a": "先簽章再加密",
+    "option_b": "使用較長的鑰匙",
+    "option_c": "使用較長的雜湊碼",
+    "option_d": "使用不同的模數 n",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q023",
+    "question": "RSA 數位簽章是由哪家公司發行的？",
+    "option_a": "RSA",
+    "option_b": "IBM",
+    "option_c": "Microsoft",
+    "option_d": "NIST",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q024",
+    "question": "DSS (Digital Signature Standard) 是由哪個單位在 1994 年提出的標準？",
+    "option_a": "IBM",
+    "option_b": "NIST",
+    "option_c": "Microsoft",
+    "option_d": "RSA",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q025",
+    "question": "智慧卡 (Smart Card) 內的 COS 是指什麼？",
+    "option_a": "卡片作業系統",
+    "option_b": "加密作業系統",
+    "option_c": "憑證作業系統",
+    "option_d": "安全作業系統",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q026",
+    "question": "文件「智慧卡儲存」提到智慧卡具有『盤問與回應』的協定，此協定的主要用途為何？",
+    "option_a": "亂數產生",
+    "option_b": "加密/解密",
+    "option_c": "資料儲存",
+    "option_d": "身分認證",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q027",
+    "question": "DSS 標準中採用的演算法稱為什麼？",
+    "option_a": "AES",
+    "option_b": "DSA",
+    "option_c": "RSA",
+    "option_d": "MD5",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q028",
+    "question": "在 X.509 V3 憑證格式中，哪個欄位記錄了憑證持有人的相關資料，如姓名、E-Mail 地址等？",
+    "option_a": "公鑰資料",
+    "option_b": "主體",
+    "option_c": "發行者",
+    "option_d": "序號",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q029",
+    "question": "在 DSA 演算法中，公共鑰匙 KU 包含了 p、q 和 g，其中 p 的長度 L 範圍為何？",
+    "option_a": "256 < L < 512",
+    "option_b": "128 < L < 256",
+    "option_c": "1024 < L < 2048",
+    "option_d": "512 < L < 1024",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q030",
+    "question": "CA 憑證是由誰發行的？",
+    "option_a": "軟體公司",
+    "option_b": "伺服器",
+    "option_c": "CA 自身或其他上層 CA",
+    "option_d": "個人",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q031",
+    "question": "數位憑證的功用，類似於現實世界中的什麼？",
+    "option_a": "身分證",
+    "option_b": "印章",
+    "option_c": "保險箱",
+    "option_d": "鑰匙",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q032",
+    "question": "儲存憑證與私有鑰匙的元件中，哪一種被特別指出是智慧卡 (Smart Card)？",
+    "option_a": "磁碟片",
+    "option_b": "隨身碟",
+    "option_c": "USB Token",
+    "option_d": "IC卡",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q033",
+    "question": "數位簽章 (Digital Signature) 主要是基於哪一種系統？",
+    "option_a": "秘密鑰匙系統",
+    "option_b": "雜湊系統",
+    "option_c": "對稱式系統",
+    "option_d": "公開鑰匙系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q034",
+    "question": "在智慧卡的運作中，最重要的一個原則是什麼？",
+    "option_a": "私有鑰匙不可以離開IC卡",
+    "option_b": "數位憑證不可以離開IC卡",
+    "option_c": "明文不可以離開IC卡",
+    "option_d": "通行碼不可以離開IC卡",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q035",
+    "question": "根據文件「數位簽章簡介」，下列何者是數位簽章演算法的例子？",
+    "option_a": "AES",
+    "option_b": "DES",
+    "option_c": "RSA",
+    "option_d": "RC4",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q036",
+    "question": "RSA 數位簽章架構中，發送者使用私有鑰匙 KR 對 H(M) 做了什麼？",
+    "option_a": "雜湊",
+    "option_b": "解密",
+    "option_c": "比對",
+    "option_d": "加密 (簽章)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q037",
+    "question": "在 DSA 演算法中，公共鑰匙 KU 包含了 p、q 和 g，其中 q 是多少位元長的質數？",
+    "option_a": "128 位元",
+    "option_b": "256 位元",
+    "option_c": "160 位元",
+    "option_d": "64 位元",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q038",
+    "question": "智慧卡被稱為 SOC (System-on-chip Circuit)，中文意思是什麼？",
+    "option_a": "智慧卡作業系統",
+    "option_b": "安全作業中心",
+    "option_c": "單晶片系統電路",
+    "option_d": "公開鑰匙系統",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q039",
+    "question": "RSA 安全考量中提到，執行數位簽章時，不可以對什麼做簽章？",
+    "option_a": "亂數",
+    "option_b": "明文",
+    "option_c": "雜湊值",
+    "option_d": "密文",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q040",
+    "question": "數位簽章 (Digital Signature) 簡介中提到，公開鑰匙系統主要用於什麼情境？",
+    "option_a": "僅用於加密",
+    "option_b": "熟悉人通訊",
+    "option_c": "安全連線內確認",
+    "option_d": "陌生人通訊",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q041",
+    "question": "DSA 演算法的安全性考量（如暴力攻擊法）與哪個演算法類似？",
+    "option_a": "RSA",
+    "option_b": "DES",
+    "option_c": "AES",
+    "option_d": "SHA-1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q042",
+    "question": "DSS/DSA 演算法中使用的雜湊演算法是什麼？",
+    "option_a": "MD5",
+    "option_b": "MD4",
+    "option_c": "SHA-1",
+    "option_d": "SHA-256",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q043",
+    "question": "當一份文件需要加密並進行數位簽章時，正確的順序應該是？",
+    "option_a": "同時進行",
+    "option_b": "先簽章，再加密",
+    "option_c": "先加密，再簽章",
+    "option_d": "兩者順序不拘",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q044",
+    "question": "X.509 憑證中，「主體 (Subject)」欄位指的是誰？",
+    "option_a": "發行憑證的 CA",
+    "option_b": "憑證伺服器",
+    "option_c": "憑證持有人",
+    "option_d": "驗證憑證者",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q045",
+    "question": "根據智慧卡私有鑰匙使用步驟，第三步 (3) 是什麼？",
+    "option_a": "文件送入IC卡",
+    "option_b": "在 IC 卡內執行簽署或加密",
+    "option_c": "輸入通行碼",
+    "option_d": "送出密文",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q046",
+    "question": "數位簽章的功能類似於文件上的什麼？",
+    "option_a": "日期戳記",
+    "option_b": "印章/簽名",
+    "option_c": "浮水印",
+    "option_d": "密碼",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q047",
+    "question": "數位簽章提供了除了確認性之外的哪一項重要功能？",
+    "option_a": "可得性",
+    "option_b": "可攜性",
+    "option_c": "不可否認性",
+    "option_d": "機密性",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q048",
+    "question": "數位憑證是由哪個單位發行的？",
+    "option_a": "憑證授權(CA)",
+    "option_b": "軟體公司",
+    "option_c": "政府機關",
+    "option_d": "使用者本人",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q049",
+    "question": "在 X.509 V3 憑證格式中，哪個欄位用來記錄發行此憑證的 CA 單位？",
+    "option_a": "主體",
+    "option_b": "演算法識別碼",
+    "option_c": "有效期限",
+    "option_d": "發行者",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q050",
+    "question": "RSA 安全考量中提到，執行數位簽章與文件加密的鑰匙對有何限制？",
+    "option_a": "必須使用同一對",
+    "option_b": "必須使用 DSS 鑰匙對",
+    "option_c": "沒有限制",
+    "option_d": "不可以使用同一對",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q051",
+    "question": "在 X.509 V3 憑證格式中，用來識別用戶的唯一序號，且同一 CA 所發行的憑證不可重複的欄位是？",
+    "option_a": "主體",
+    "option_b": "數位簽章",
+    "option_c": "序號",
+    "option_d": "版本",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q052",
+    "question": "下列關於 RSA 數位簽章的注意事項，何者正確？",
+    "option_a": "可以對亂數做數位簽章",
+    "option_b": "執行數位簽章與文件加密的鑰匙，可以使用同一對",
+    "option_c": "執行數位簽章時，必須針對文件的雜湊值加密",
+    "option_d": "執行數位簽章時，可以直接對文件明文加密",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q053",
+    "question": "下列何者是文件「數位憑證的種類」中提到的憑證種類？",
+    "option_a": "醫療憑證",
+    "option_b": "交通憑證",
+    "option_c": "軟體憑證",
+    "option_d": "教育憑證",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q054",
+    "question": "在 RSA 演算法中，e 必須滿足什麼數論條件？",
+    "option_a": "$1 < e < \\phi(n)$",
+    "option_b": "$e = n$",
+    "option_c": "$e$ 為偶數",
+    "option_d": "$\\gcd(e, \\phi(n)) = 1$",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q055",
+    "question": "根據 RSA 安全考量，若憑證使用期限在一年以上，鑰匙長度建議至少多少 bits？",
+    "option_a": "8192 bits",
+    "option_b": "2048 bits",
+    "option_c": "4096 bits",
+    "option_d": "1024 bits",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q056",
+    "question": "RSA 數位簽章中，用來對抗「生日攻擊法」的策略是什麼？",
+    "option_a": "使用較長的雜湊碼",
+    "option_b": "先簽章再加密",
+    "option_c": "使用較長的鑰匙",
+    "option_d": "使用不同的模數 n",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q057",
+    "question": "RSA 數位簽章可以嵌入的雜湊演算法不包含下列何者？",
+    "option_a": "SHA-1",
+    "option_b": "MD5",
+    "option_c": "MD4",
+    "option_d": "AES",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q058",
+    "question": "DSS 演算法 (DSA) 的簽章 (r, s)，其中 r 是如何計算的？",
+    "option_a": "$r = (g \\pmod p) \\pmod q$",
+    "option_b": "$r = (g^k \\pmod q) \\pmod p$",
+    "option_c": "$r = (g^x \\pmod p) \\pmod q$",
+    "option_d": "$r = (g^k \\pmod p) \\pmod q$",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q059",
+    "question": "在 RSA 密碼演算法中，計算出小於n且與n互質的整數個數 φ(n) 的公式是什麼？",
+    "option_a": "(p-1)(q)",
+    "option_b": "(p)(q)",
+    "option_c": "(p+1)(q+1)",
+    "option_d": "(p-1)(q-1)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q060",
+    "question": "RSA 簽章演算法的「簽章」步驟（加密）是使用哪一個鑰匙？",
+    "option_a": "私有鑰匙 d",
+    "option_b": "質數 q",
+    "option_c": "質數 p",
+    "option_d": "公開鑰匙 e",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q061",
+    "question": "根據 RSA 安全考量，若憑證使用期限在一年內，鑰匙長度建議至少多少 bits？",
+    "option_a": "1024 bits",
+    "option_b": "2048 bits",
+    "option_c": "512 bits",
+    "option_d": "4096 bits",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q062",
+    "question": "智慧卡 (Smart Card) 運行的作業系統稱為什麼？",
+    "option_a": "Windows",
+    "option_b": "COS (Card Operating System)",
+    "option_c": "Linux",
+    "option_d": "iOS",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q063",
+    "question": "在 X.509 V3 憑證格式中，「版本」欄位的作用是什麼？",
+    "option_a": "記錄軟體的版本",
+    "option_b": "記錄演算法的版本",
+    "option_c": "記錄憑證格式的版本",
+    "option_d": "記錄 CA 的版本",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q064",
+    "question": "文件「憑證與私鑰的儲存元件」中提到的「智慧卡-IC卡」應用範例包含下列何者？",
+    "option_a": "一卡通",
+    "option_b": "金融卡",
+    "option_c": "以上皆是",
+    "option_d": "健保卡",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q065",
+    "question": "數位簽章主要提供了「確認性」和什麼？",
+    "option_a": "可用性",
+    "option_b": "完整性",
+    "option_c": "不可否認性",
+    "option_d": "機密性",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q066",
+    "question": "在 RSA 演算法中，私有鑰匙 KR 是由哪兩個數組成的？",
+    "option_a": "{p, q}",
+    "option_b": "{e, n}",
+    "option_c": "{e, p}",
+    "option_d": "{d, n}",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q067",
+    "question": "文件「數位憑證簡介」中使用了什麼實體文件來類比數位憑證？",
+    "option_a": "國民身分證",
+    "option_b": "健保卡",
+    "option_c": "駕照",
+    "option_d": "護照",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q068",
+    "question": "在 DSA 簽署函數中，r 的計算公式中的 k 代表什麼？",
+    "option_a": "公共鑰匙 q",
+    "option_b": "發送者的私有鑰匙",
+    "option_c": "隨機亂數",
+    "option_d": "發送者的公開鑰匙",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q069",
+    "question": "用于「熟悉人或安全連線內的確認」的是哪一種系統？",
+    "option_a": "數位簽章系統",
+    "option_b": "憑證系統",
+    "option_c": "公開鑰匙系統",
+    "option_d": "秘密鑰匙系統",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q070",
+    "question": "智慧卡 (Smart Card) 被稱為 SOC，它具備 CPU、RAM 和什麼儲存元件？",
+    "option_a": "FLASH (快閃記憶體)",
+    "option_b": "磁帶",
+    "option_c": "光碟 (CD-ROM)",
+    "option_d": "硬碟 (HDD)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q071",
+    "question": "在 DSA 確認函數中，最後會比對 v 值與哪個值，若相等則認證成功？",
+    "option_a": "w",
+    "option_b": "r'",
+    "option_c": "H(M')",
+    "option_d": "s'",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q072",
+    "question": "在 RSA 密碼演算法中，如何計算 n？",
+    "option_a": "p x q",
+    "option_b": "p + q",
+    "option_c": "p - q",
+    "option_d": "p / q",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q073",
+    "question": "在 X.509 V3 憑證格式中，「演算法識別碼」欄位的作用是什麼？",
+    "option_a": "記錄憑證的編碼演算法",
+    "option_b": "記錄用來計算此憑證數位簽章的演算法",
+    "option_c": "記錄 CA 的加密演算法",
+    "option_d": "記錄持有人的加密演算法",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q074",
+    "question": "在智慧卡運作中，使用私有鑰匙執行簽署或加密的動作是在哪裡完成的？",
+    "option_a": "智慧卡 (IC卡) 內部",
+    "option_b": "雲端伺服器",
+    "option_c": "讀卡機",
+    "option_d": "電腦系統的 CPU",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q075",
+    "question": "文件「憑證與私鑰的儲存元件」中提到的儲存元件，除了 IC 卡外，還包含下列何者？",
+    "option_a": "員工識別證",
+    "option_b": "工商服務卡",
+    "option_c": "USB Token",
+    "option_d": "以上皆是",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q076",
+    "question": "X.509 憑證中的「數位簽章」是由誰的什麼鑰匙產生的？",
+    "option_a": "持有人的公鑰",
+    "option_b": "持有人的私鑰",
+    "option_c": "CA 的公鑰",
+    "option_d": "CA 的私鑰",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q077",
+    "question": "在 RSA 數位簽章中，接收端如何確認簽章成功？",
+    "option_a": "比對 M 與 H(M')",
+    "option_b": "比對 M 與 M'",
+    "option_c": "比對 H(M) 與 H(M')",
+    "option_d": "比對 Sig(M) 與 M'",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q078",
+    "question": "文件「數位憑證的種類」中提到，個人憑證可區分為哪兩類？",
+    "option_a": "主要與次要",
+    "option_b": "本國人與外國人",
+    "option_c": "伺服器與用戶端",
+    "option_d": "自然人與法人",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q079",
+    "question": "智慧卡 (Smart Card) 嵌入的非對稱加密系統可能是下列何者？",
+    "option_a": "RSA",
+    "option_b": "SHA-1",
+    "option_c": "DES",
+    "option_d": "AES",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q080",
+    "question": "智慧卡 (Smart Card) 具備了下列哪些元件，可視為一個單晶片系統電路 (SOC)？",
+    "option_a": "僅有 CPU 和 RAM",
+    "option_b": "僅有 FLASH",
+    "option_c": "僅有 I/O 介面",
+    "option_d": "CPU、RAM、FLASH、I/O",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q081",
+    "question": "根據智慧卡私有鑰匙使用步驟，在執行簽署或加密 (3) 之後的最後一步 (4) 是什麼？",
+    "option_a": "儲存數位憑證",
+    "option_b": "輸入通行碼",
+    "option_c": "送出簽署碼或密文",
+    "option_d": "文件送入IC卡",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q082",
+    "question": "根據文件「數位簽章簡介」，下列何者也是數位簽章演算法的例子？",
+    "option_a": "DSS",
+    "option_b": "MD5",
+    "option_c": "Blowfish",
+    "option_d": "SHA-1",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q083",
+    "question": "智慧卡 (Smart Card) 儲存了哪兩項關鍵資訊？",
+    "option_a": "數位憑證與私有鑰匙",
+    "option_b": "私有鑰匙與通行碼",
+    "option_c": "數位憑證與通行碼",
+    "option_d": "數位簽章與公開鑰匙",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q084",
+    "question": "RSA 簽章演算法的「驗證」步驟（解密）是使用哪一個鑰匙？",
+    "option_a": "質數 p",
+    "option_b": "私有鑰匙 d",
+    "option_c": "公開鑰匙 e",
+    "option_d": "質數 q",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q085",
+    "question": "在 DSA 簽署函數中，s 的計算公式中的 x 代表什麼？",
+    "option_a": "隨機亂數",
+    "option_b": "公共鑰匙 p",
+    "option_c": "發送者的私有鑰匙",
+    "option_d": "發送者的公開鑰匙",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q086",
+    "question": "CA 如何確保 X.509 憑證的完整性與真實性？",
+    "option_a": "使用 CA 的公鑰對憑證內容加密",
+    "option_b": "使用持有人的私鑰對憑證內容簽章",
+    "option_c": "使用 CA 的私鑰對憑證內容簽章",
+    "option_d": "使用對稱式金鑰加密",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q087",
+    "question": "為了讓數位憑證的電子資料能在各種系統間運作，採用了哪種編碼方式？",
+    "option_a": "Base64",
+    "option_b": "ASN.1",
+    "option_c": "UTF-8",
+    "option_d": "ASCII",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q088",
+    "question": "下列何者不是文件「憑證與私鑰的儲存元件」中提到的儲存元件？",
+    "option_a": "隨身碟",
+    "option_b": "智慧卡-IC卡",
+    "option_c": "磁碟片",
+    "option_d": "雲端硬碟",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q089",
+    "question": "在 X.509 V3 憑證格式中，哪個欄位是 CA 將憑證資料經過雜湊演算法計算後，再用 CA 的私鑰加密所產生的？",
+    "option_a": "數位簽章",
+    "option_b": "演算法識別碼",
+    "option_c": "序號",
+    "option_d": "主體",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q090",
+    "question": "DSA 演算法是哪一年由 NIST 提出的標準？",
+    "option_a": "1994",
+    "option_b": "1991",
+    "option_c": "1998",
+    "option_d": "2001",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q091",
+    "question": "數位憑證在虛擬環境下的主要作用是什麼？",
+    "option_a": "加密訊息",
+    "option_b": "電子性身分證明",
+    "option_c": "儲存私鑰",
+    "option_d": "解密訊息",
+    "answer": "B"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q092",
+    "question": "RSA 安全考量中提到，執行數位簽章前，必須將明文填補(亂數或0)到與什麼相同長度？",
+    "option_a": "雜湊值",
+    "option_b": "質數 q",
+    "option_c": "質數 p",
+    "option_d": "模數(n)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q093",
+    "question": "下列何者是文件「憑證與私鑰的儲存元件」中提到的 IC 卡應用？",
+    "option_a": "以上皆是",
+    "option_b": "健保卡",
+    "option_c": "信用卡 (VISA)",
+    "option_d": "一卡通 (iPASS)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q094",
+    "question": "在 DSS 數位簽章架構圖中，接收端用來驗證的公開鑰匙來自於何處？",
+    "option_a": "發送者",
+    "option_b": "NIST",
+    "option_c": "CA",
+    "option_d": "接收端自己產生",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q095",
+    "question": "在虛擬環境下，作為身分證明，且對電子商務不可或缺的是什麼？",
+    "option_a": "數位憑證",
+    "option_b": "智慧卡",
+    "option_c": "私有鑰匙",
+    "option_d": "數位簽章",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q096",
+    "question": "關於 RSA 數位簽章的安全性，下列敘述何者錯誤？",
+    "option_a": "不同鑰匙配對之間不可以有相同的模數(n)",
+    "option_b": "生日攻擊法:雜湊碼越長越安全",
+    "option_c": "需加密的文件，必須先做訊息加密，再做數位簽章",
+    "option_d": "必須將明文填補到與模數(n)相同長度後再簽章",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q097",
+    "question": "針對 RSA 的「生日攻擊法」，解決策略是什麼？",
+    "option_a": "鑰匙長度越長越安全",
+    "option_b": "模數 n 越大越安全",
+    "option_c": "雜湊碼越長越安全",
+    "option_d": "質數 p 越大越安全",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q098",
+    "question": "RSA 數位簽章是針對什麼進行加密？",
+    "option_a": "訊息的雜湊值 H(M)",
+    "option_b": "公開鑰匙",
+    "option_c": "私有鑰匙",
+    "option_d": "訊息 M (明文)",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q099",
+    "question": "在 X.509 V3 憑證格式中，哪個欄位包含了憑證持有人的公開鑰匙及其演算法？",
+    "option_a": "數位簽章",
+    "option_b": "主體",
+    "option_c": "公鑰資料",
+    "option_d": "發行者",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q100",
+    "question": "下列關於 RSA 數位簽章的敘述，何者錯誤？",
+    "option_a": "必須將明文填補(亂數或0)到與模數(n)相同長度",
+    "option_b": "不可以對亂數做數位簽章",
+    "option_c": "簽章與加密的鑰匙對不可以相同",
+    "option_d": "不同鑰匙配對的模數(n)必須不同",
+    "answer": "A"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q101",
+    "question": "下列何者不是文件「數位憑證的種類」中提到的憑證種類？",
+    "option_a": "伺服器憑證",
+    "option_b": "個人憑證",
+    "option_c": "硬體憑證",
+    "option_d": "CA 憑證",
+    "answer": "C"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q102",
+    "question": "RSA 數位簽章架構中，接收者使用公開鑰匙對 DS (數位簽章) 做了什麼？",
+    "option_a": "加密",
+    "option_b": "雜湊",
+    "option_c": "比對",
+    "option_d": "解密 (驗證)",
+    "answer": "D"
+  },
+  {
+    "chapter": "第七章 數位簽章與數位憑證",
+    "question_id": "CH11_Q103",
+    "question": "根據智慧卡私有鑰匙使用步驟，第二步 (2) 是什麼？",
+    "option_a": "執行簽署或加密",
+    "option_b": "文件送入IC卡",
+    "option_c": "輸入通行碼取出私有鑰匙",
+    "option_d": "送出密文",
+    "answer": "C"
+  }
+]

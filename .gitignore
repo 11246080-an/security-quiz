@@ -1,0 +1,13 @@
+# Local server/runtime artifacts
+__pycache__/
+*.py[cod]
+server.*.log
+
+# Keep Word source files under docs/, ignore duplicate files in project root.
+/*.doc
+/*.docx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
